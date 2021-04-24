@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block content %}
+
+<div class="jumbotron">
+    <h1 align="center" class="display-4">{{ page.title }}</h1>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+    </div>
+    <div class="col-lg">
+        <p align="center">Game: {{page.extra.game}}</p>
+        <p align="center">Written by: {{ page.extra.author }}</p>
+        <p align="center">Reviewed by: {{page.extra.reviewer}}</p>
+    </div>
+    <div class="col-sm">
+    </div>
+  </div>
+</div>
+{{ page.content | safe}}
+{% endblock content %}

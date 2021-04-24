@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1 class="title">
+    {{ section.title }}
+</h1>
+<table class="table">
+    <thead><th>Date</th><th>Game</th><th>Game Author</th><th>Reviewer</th><thead>
+    <tbody>
+{% for post in section.pages %}
+        <tr><td>{{post.date}}</td><td><a href="{{post.permalink}}">{{post.extra.game}}</a></td><td>{{post.extra.author}}</td><td>{{post.extra.reviewer}}</td></tr>
+{% endfor %}
+    <tbody>
+</table>
+{% endblock content %}
