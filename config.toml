@@ -1,13 +1,17 @@
 # The URL the site will be built for
 base_url = "https://mjmusante.github.io/if-review/"
 
+# Name of the site (used in rss feed)
+title = "IF-Review"
+description = "An online magazine for in-depth reviews of interactive fiction."
+
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
 
-# rss feed
+# atom rss feed
 generate_feed = true
 
 [markdown]
