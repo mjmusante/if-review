@@ -10,46 +10,54 @@
     me who still use RSS readers</p>
 <h3>About this site</h3>
 <p>
-I joined the "interactive fiction" community some time in the 1990's. This community was
-based in two different <a href="https://en.wikipedia.org/wiki/Usenet">Usenet</a>
-newsgroups: <code>rec.arts.int-fiction</code> and <code>rec.games.int-fiction</code>, the former
-ostensibly for discussing the creation of games, and the latter ostensibly for the disucssion
-of the playing of games. In reality, there was not much difference between the two as
-there was virtually 100% overlap between the denizens.
+    I joined the "interactive fiction" community some time in the 1990's. This
+    community was based in two different <a
+    href="https://en.wikipedia.org/wiki/Usenet">Usenet</a> newsgroups:
+    <code>rec.arts.int-fiction</code> and <code>rec.games.int-fiction</code>,
+    the former ostensibly for discussing the creation of games, and the latter
+    ostensibly for the disucssion of the playing of games. In reality, there
+    was not much difference between the two as there was virtually 100%
+    overlap between the denizens.
 </p><p>
-    When a game was released, sometimes there was discussion about its puzzles (mostly asking
-    for help), and sometimes even its merits as a game were disected. About halfway through
-    the 1990's, the idea of an annual <a href="https://ifcomp.org/history/">competition</a> formed,
-    and this resulted in many more games.
+    When a game was released, sometimes there was discussion about its puzzles
+    (mostly asking for help), and sometimes even its merits as a game were
+    disected. About halfway through the 1990's, the idea of an annual <a
+    href="https://ifcomp.org/history/">competition</a> formed, and this
+    resulted in many more games, which spawned many more discussions.
 </p><p>
-    One of the results of the compeittion, besides having more games to play, was having lots
-    of reviews to read. This was great especially for the game authors - seeing feedback is
-    always welcome after having put time and energy into creating something. The downside was
-    that much of the energy of the community was directed at the competition and its games,
-    which left the other, longer, games reviewless.
+    One of the results of the competition, besides having more games to play,
+    was having lots of reviews to read. This was great especially for the game
+    authors - seeing feedback is always welcome after having put time and
+    energy into creating something. The downside was that much of the energy
+    of the community was directed at the competition and its games, which left
+    non-competition games starved for reviews.
 </p><p>
-    From 2001 to 2009, I ran a website called "IF-Review" to try to encourage reviews
-    of these longer games. I offered a (very small, alas) amount of money for them 
-    in the hopes that it would offset the effort of playing through the games and then
-    writing up an in-depth review of them. In exchange, I asked for the right to publish
-    them exclusively for one week, and maintain them on a website indefnitely. Other than
-    that, the authors of the reviews could do with them as they wished.
+    From 2001 to 2009, I ran a website called "IF-Review" to try to encourage
+    reviews of these longer games. I offered a (very small, alas) amount of
+    money for these reviews  in the hopes that it would offset the effort of
+    playing through the games and then writing up an in-depth review of them.
+    In exchange, I asked for the right to publish them exclusively for one
+    week, and maintain them on a website indefnitely. Other than that, the
+    authors of the reviews could do with them as they wished.
 </p><p>
-    I already had a personal website, so it was easy enough for me to just add a subdirectory
-    to publish the reviews in. I hacked together a perl script to convert reviews into pages,
-    and generate indicies sorted by date, game, author, and reviewer. It wasn't pretty, but
-    it worked well for me, and the resulting website published dozens of reviews over the years.
+    I already had a personal website, so it was easy enough for me to just add
+    a subdirectory to publish the reviews in. I hacked together a perl script
+    to convert reviews into pages, and generate indicies sorted by date, game,
+    author, and reviewer. It wasn't pretty, but it worked well for me, and the
+    resulting website published dozens of reviews over the years.
 </p><p>
-    Fast forward to present day. The term for the kind of site I was publishing has become
-    "static" - sites without a database back-end or business logic to generate the pages are
-    considered static websites, and nowadays there are many static site generation tools available.
-    While my hacky little perl script worked, the more modern tools which generate static
-    sites are far superior and allow site maintainers to concentrate on the content
-    of their sites rather than the underlying code which generates them. I have decided
-    to use the <a href="https://www.getzola.org/">Zola</a> tool, which is easy enough
-    to adapt to the review file format I had been using.
+    Fast forward to present day, and now the term for the kind of site I was
+    publishing is "static website" - sites without a database back-end or
+    business logic to generate the pages. Nowadays, there are many static site
+    generation tools available and, while my hacky little perl script worked,
+    the more modern tools which generate static sites are far superior and
+    allow site maintainers to concentrate on the content rather than the
+    underlying infrastructure which generates them. I have decided to use the
+    <a href="https://www.getzola.org/">Zola</a> tool, which is easy enough to
+    adapt to the review file format I had been using.
 </p><p>
-    So now, without further blathering, here are the <a href="reviews">reviews</a> of the games of
-    the nought-ies. I hope you find some enjoyment there.
+    So now, without further blathering, here are the <a
+    href="reviews">reviews</a> of the games of the nought-ies. I hope you find
+    some enjoyment there.
 </p>
 {% endblock content %}
