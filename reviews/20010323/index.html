@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <link rel="stylesheet" href="https:&#x2F;&#x2F;mjmusante.github.io&#x2F;if-review&#x2F;site.css">
+
+  
+    <link rel="alternate" type="application/atom+xml"
+          title="RSS" href='https:&#x2F;&#x2F;mjmusante.github.io&#x2F;if-review&#x2F;atom.xml'>
+  
+
+  <title>IF-Review: The Interactive Fiction Review Magazine</title>
+</head>
+
+<body>
+    <div class="container">
+      
+
+<div class="jumbotron">
+    <h1 align="center" class="display-4">A Dream of Lethe</h1>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+    </div>
+    <div class="col-lg">
+        <p align="center">Game: Lethe Flow Phoenix</p>
+        <p align="center">Written by: Dan Shiovitz</p>
+        <p align="center">Reviewed by: Gunther Schmidl</p>
+    </div>
+    <div class="col-sm">
+    </div>
+  </div>
+</div>
+<p>Here be, as always, spoilers. You have been warned.</p>
+<p>Dan Shiovitz' <em>Lethe Flow Phoenix</em> is different from other games.</p>
+<p>First of all, its style of narration at the start of the game reminded me of C. 
+S. Lewis' <em>The Magician's Nephew</em> or, perhaps more flattering, Tolkien's 
+<em>The Hobbit</em> with editorial comments like</p>
+<div class="gametext rounded">
+        The rock is oval, fairly heavy, and about the size of an apple or maybe even 
+slightly bigger.  Useful as a paperweight, I suppose.
+</div>
+<p>and charmingly drawn NPCs like a grumpy old tree trying to prevent you from
+climbing him:</p>
+<div class="gametext rounded">
+        <p>"Hah!"  says the tree.  "That'll teach you."  "Ha!"  you say back, grabbing the 
+apple.</p>
+<p>&nbsp; &nbsp; "Oh," says the tree.  "I hadn't thought of that."</p>
+</div>
+<p>This changes later as the game's tone grows more serious (again, much like 
+Tolkien's prose changed between <em>The Hobbit</em> and <em>The Lord of the 
+Rings</em>), but the entire game is beautifully written, with funny and 
+compelling descriptions. The world it is set in seems like a condensed version 
+of <em>Once and Future</em> (which it pre-dates by several years, of course) 
+sometimes, in that it is not a generic fantasy world but alive with strange 
+beasts and vivid locations.</p>
+<p>One small critique must be permitted amid all the praise: the game suffers (not
+much, though) from small oversights:</p>
+<div class="gametext rounded">
+        <p>&gt;PUT IT IN CAGE</p>
+<p></p>
+<p>&gt;</p>
+</div>
+<p>(You receive no message to the effect, but the action has worked). Later on,
+there are a number of the TADS equivalent of <code>rtrue;</code> missing, and
+you'll get the default response to an action displayed after Dan's own, like 
+here:</p>
+<div class="gametext rounded">
+        You grab hold of the glider bar and adjust your position on it.  You're ready to 
+fly!  Okay, you're now wearing the hang-glider.
+</div>
+<p>Again, this doesn't really matter much, and you'd probably have to be a
+programmer to realize these are oversights (but then again, maybe not).</p>
+<p>And I couldn't resist throwing in part of one of my favourite funny 
+descriptions of all time:</p>
+<div class="gametext rounded">
+        Well, if you've ever wondered what was going on, you seem to have found the 
+place where whatever it is that is going on happens.
+</div>
+<p>The game is also one of the very few to use TADS' file input/output features
+(the two others I can think of off the top of my head being <em>Losing Your 
+Grip</em> and <em>Lost New York</em>; I know I have forgotten at least one here).
+The first time you start it, you will be asked a few questions, the answers
+to which are stored in a configuration file so you won't have to answer them
+again until you delete it.</p>
+<p>Another thing I don't remember having seen in any other game are transitional
+messages as you walk from location to location, things like</p>
+<div class="gametext rounded">
+        <p>&gt;N</p>
+<p>You walk north, and soon arrive back at the open field.</p>
+</div>
+<p>One more thing of note: the game does not keep score in a traditional way. 
+Instead, it divides solvable puzzles into major and minor tasks and tells you
+how many of those you have achieved, then rates you according to that. Since
+all major objects must be accomplished to win the game, SCORE can give you
+an indication of how far along you are.</p>
+<p>(Note: just as I'm writing this, I'm reading through the help system again,
+and notice it contains something akin to this paragraph. I didn't steal it
+from there, honestly!)</p>
+<p>So much for game mechanics - what is the game about? </p>
+<p>It begins harmlessly enough -- or, actually, it doesn't as you quickly come
+to realize. It seems an accident that you fall off a cliff, but something
+rescues you -- bluesilver wings -- the Phoenix that gave the game part of its
+name?</p>
+<p>Whatever it is, you are transported to a fantasy world and are left to explore.
+It seems peaceful at first but, when you come across some mushrooms, things
+change quickly.</p>
+<p>Plot spoilers below -- mark the seemingly empty space with your mouse if you
+want to see this. Lynx users: sorry.</p>
+<span class="bordered"><span class="spoiler">It seems _you_ are the phoenix -- or at least one of many phoenices placed
+upon the Earth by a Fallen Angel to guard against an alien race known only as
+_Them_, as they have no pronouncable name in any Earth language. They 
+know that you are a threat, and They decided to kill you, but the Angel, 
+Daniel, brought you to safety. Now the fate of humanity lies with you...</span></span>
+<p>The puzzles that are there are mostly logical, but some things will most likely
+involve a fair amount of trial and error. There are plenty of clues given by 
+the narrative itself -- either in the actual game text, or by NPCs (also in
+the form of little notes left lying around) -- and the help menu also contains
+several generic hints. Be sure to check it out after you win for a number of
+fun things to try.</p>
+<p><em>Lethe Flow Phoenix</em> is a medium-short game (though Dan seemed to think it
+was too long for the first IF Competition), but that doesn't make it any less
+good. The only gripe I had with it is that it was over before I wanted it to
+be over. Things are left unresolved, and while the ending certainly isn't what
+you would expect, I felt it was better that way.</p>
+<p>The only thing that's left to say to you is: play the best game ever:
+<a href="http://plover.net/%7Egschmidl/speedif/chef.gam">You are a CHEF!</a>, also
+written by Dan Shiovitz, nominated for Best Writing in 2000's XYZZY Awards.</p>
+<p>The other thing, left to say to Dan: write another game!</p>
+
+
+    </div>
+
+    <footer class="footer">
+      <div class="container">
+        <span class="text-muted">Site Copyright &copy; 2001-2021 Mark Musante. Individual reviews are Copyrighted by their authors</span>
+      </div>
+    </footer>
+
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+    integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+    integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+    integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <script>
+        $( "blockquote" ).addClass(function( index ) {
+            return "blockquote";
+        });
+        $( "blockquote p" ).addClass(function( index ) {
+            return "mb-0";
+        });
+    </script>
+
+</body>
+
+</html>

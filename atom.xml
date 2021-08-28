@@ -1,0 +1,2319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>IF-Review</title>
+    <subtitle>An online magazine for in-depth reviews of interactive fiction.</subtitle>
+    <link href="https://mjmusante.github.io/if-review/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://mjmusante.github.io/if-review/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2001-08-24T00:00:00+00:00</updated>
+    <id>https://mjmusante.github.io/if-review/atom.xml</id>
+    <entry xml:lang="en">
+        <title>A Review of Stranded</title>
+        <author><name>Dan Shiovitz</name></author>
+        <published>2001-08-24T00:00:00+00:00</published>
+        <updated>2001-08-24T00:00:00+00:00</updated>
+        <link href="https://mjmusante.github.io/if-review/reviews/20010824/" type="text/html"/>
+        <id>https://mjmusante.github.io/if-review/reviews/20010824/</id>
+        <content type="html">&lt;div class=&quot;gametext rounded&quot;&gt;
+        &lt;p&gt;Rest Room&lt;&#x2F;p&gt;
+&lt;P&gt;
+This is the dingy but clean bathroom of the Odduck Diner. It has the
+typical fixtures: sink, mirror and toilet. A door to the south leads
+to the diner. (Type &#x27;&lt;B&gt;help&lt;&#x2F;B&gt;&#x27; and press &lt;B&gt;ENTER&lt;&#x2F;B&gt;). 
+&lt;&#x2F;P&gt;
+&lt;p&gt;&amp;gt;FLUSH TOILET&lt;&#x2F;p&gt;
+Woosh!
+&lt;&#x2F;div&gt;
+&lt;p&gt;I&#x27;m not a picky guy. Basically, as long as a game that has a toilet supports
+&#x27;flush toilet&#x27;, I&#x27;m happy. It&#x27;s good that I have these simple tastes because
+&lt;em&gt;Stranded&lt;&#x2F;em&gt; doesn&#x27;t really offer anything complex.&lt;&#x2F;p&gt;
+&lt;p&gt;This is not to say it&#x27;s a bad game. But, well,
+&lt;a href=&quot;http:&#x2F;&#x2F;www.u.arizona.edu&#x2F;%7Ebayers&#x2F;&quot;&gt;the author&#x27;s website&lt;&#x2F;a&gt; describes it as &amp;quot;an
+educational interactive fiction game&amp;quot;. For some reason, games which are
+marketed as &amp;quot;educational&amp;quot; always seem to be targeted precisely at a particular
+age level, and &amp;quot;education&amp;quot; always seems to imply &amp;quot;in math&amp;quot;. &lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Stranded&lt;&#x2F;em&gt; follows the model pretty closely, in the sense that it&#x27;s easy to get
+started with (with lots of helpful tips on how to play IF scattered through the
+text, as seen in the room description above), has a bunch of brightly-colored
+pictures (illustrated by Igor Revyakin, who should be commended for striking
+just the right note with his drawings), and has little puzzles stuck in that
+don&#x27;t feel quite natural (&amp;quot;This ceiling is in need of painting. It is covered
+in square tiles. The tiles make up a pattern like a checker board. Each tile
+measures one foot by one foot. Counting from east to west, there are ten tiles
+in a row. Counting from north to south, there are ten tiles in a row as well.&amp;quot;
+— and later on, of course, you have to figure out how much paint to buy).&lt;&#x2F;p&gt;
+&lt;p&gt;That said, let me put the educational issue aside for the moment and talk about
+this purely from an IF perspective. &lt;em&gt;Stranded&lt;&#x2F;em&gt; does a number of things right.
+Besides the aforementioned good use of graphics, Bayers does a good job of
+setting up a small town with a variety of interesting people. The people are
+suspiciously ethnically diverse, and it&#x27;s not really clear where everyone&#x27;s
+houses are and so on, but these are pretty excusable given the genre (i.e.,
+wandering around a small town solving puzzles). The game sets a consistent tone
+in the writing and character depictions, which is harder for a puzzle game than
+you might think, and there are no weird anachronisms. At the same time, it&#x27;s
+not a bland world: there are enough oddball things (the ducks, the mysterious
+Nookums) to make it unique and memorable.&lt;&#x2F;p&gt;
+&lt;p&gt;The puzzles, unfortunately, could use some work. Some of them (the
+ceiling-painting, the rake retrieval) are ones that you could reasonably
+stumble across and figure out what you&#x27;re supposed to do; for others, like the
+car wash and the cake, it seems like it&#x27;d be hard to figure out that they
+exist, let alone how to solve them. Then there&#x27;s a few (eg, raking the leaves)
+where you find the puzzle, and there are a bunch of plausible ways to solve it,
+and exactly one of them has been implemented and there&#x27;s an uncommunicative
+failure message if you try anything else. This is just poor game design,
+regardless of the target age range, and shows the author should have done more
+beta-testing. &lt;&#x2F;p&gt;
+&lt;p&gt;People have varying degrees of pedanticism when it comes to analyzing other
+people&#x27;s writing. I&#x27;m, relatively speaking, pretty low-key about this sort of
+thing. But particularly in a game supposed to be educational, even I am
+somewhat jarred when I see things like &amp;quot;Wearing a baseball hat and dark
+glasses, you see groundskeeper Earl.&amp;quot; and &amp;quot;Don&#x27;t let the educational part
+through you&amp;quot;. Then there are occasional other smaller errors of the sort that
+(again) should have been caught by beta-testing, &amp;quot;Next to the door, are is the
+number &#x27;46&#x27;.&amp;quot; The writing in this game isn&#x27;t made unreadable by these errors,
+but they are distracting for older players and (I would think) confusing for
+younger ones. Bayers would have benefitted from more extensive beta-testing
+and&#x2F;or a look-over by somebody with a better ear for grammar.&lt;&#x2F;p&gt;
+&lt;p&gt;Finally, I feel as though I should talk about educational games more generally.
+There is the unspoken theory in some circles that kids don&#x27;t enjoy learning
+things, that they need to somehow be tricked into education or they will just
+sit there aimlessly. And the result is games marketed as &amp;quot;educational&amp;quot;, when
+what this really means is that they&#x27;re &lt;em&gt;less educational&lt;&#x2F;em&gt; than most games (for
+adults), and hence kids are supposed to, I guess, accept them more easily. But
+this is stupid and condescending. If you really want to educate the kid, give
+them something really solid and well-crafted like, say, &lt;em&gt;So Far&lt;&#x2F;em&gt;, and let them
+play that. Sure, they won&#x27;t get 50% of the puzzles or 95% of the subtext, but
+they&#x27;ll get enough to be interested. And every part they see will be excellent,
+and when they come back to it later there&#x27;ll be more excellent stuff to get
+then.&lt;&#x2F;p&gt;
+&lt;p&gt;I don&#x27;t mean to give the impression &lt;em&gt;Stranded&lt;&#x2F;em&gt; is unplayably horrible or
+anything like that. I spent an evening on it, used hints in a few places, and
+it was perky and fun. But it&#x27;s not a piece of IF that I&#x27;m going to be
+remembering a year from now, and particularly for an educational game it could
+have used more beta-testing, both in writing and in game design.&lt;&#x2F;p&gt;
+&lt;p&gt;And if you want to know how it ends, you&#x27;ll have to play the game.&lt;&#x2F;p&gt;
+</content>
+    </entry>
+    <entry xml:lang="en">
+        <title>Taking A Swing</title>
+        <author><name>Emily Short</name></author>
+        <published>2001-08-10T00:00:00+00:00</published>
+        <updated>2001-08-10T00:00:00+00:00</updated>
+        <link href="https://mjmusante.github.io/if-review/reviews/20010810/" type="text/html"/>
+        <id>https://mjmusante.github.io/if-review/reviews/20010810/</id>
+        <content type="html">&lt;p&gt;The recent release of Sean Barrett&#x27;s &lt;em&gt;The Weapon&lt;&#x2F;em&gt; suggested the polish and care
+of a major production, accompanied as it was by a virtual-feelie html file.
+I&#x27;ve been arguing for more such feelies; they&#x27;re a way to add color to a game
+and provide background, and they set off the large-scale games from their
+smaller and more casual counterparts. In what follows I shall discuss both the
+game and its virtual packaging.&lt;&#x2F;p&gt;
+&lt;p&gt;Here&#x27;s the good news: the game is exceptionally polished, technically, and the
+feelies are well suited to it. If you are one of those who have been clamoring
+for more long games sized large enough to be unsuitable for the competition,
+however, you&#x27;re out of luck. It took me probably less than 45 minutes, in two
+sessions, to play it; it would have taken longer if there had not been a hint
+system, to which I had frequent recourse. (It seems that when there is a hint
+system, I always use it. This probably says more about me than it does about
+the games to which the hints belong, but it also suggests, perhaps, why people
+haven&#x27;t been talking about &lt;em&gt;The Weapon&lt;&#x2F;em&gt; much on rgif; there is nothing to get
+hung up on, since if you want you can get a full walkthrough out of the game,
+and there are no bugs that I was able to find.) Even so I doubt it could have
+run more than the regulation two hours, and if it had it would have been
+because I&#x27;d gotten massively stuck.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;The Weapon&lt;&#x2F;em&gt; is set in a distant, chilly future, as the feelies will instantly
+reveal. The newspaper articles (or html equivalent) suggest troubled times for
+Earth, and interactions with two alien species; they are also larded with
+references and vocabulary that don&#x27;t make any sense at all, which, I presume,
+is an attempt to reflect a future time in which new jargons and concerns have
+sprung up of which we can anticipate nothing. Considering how very &lt;em&gt;far&lt;&#x2F;em&gt; in the
+future this seems to be set, it seems that this doesn&#x27;t go far enough — I
+have a hard time believing that we will still have anything like newspapers,
+let alone use anything like English, if the human race is still around in
+33,000 years. But some concessions must be made to the comprehensibility, and
+it is an effective way to remind us that the distant future will be a strange
+place. (Though I&#x27;d love to see what the feelies would look like for &lt;em&gt;Lighan ses
+Lion&lt;&#x2F;em&gt;.)&lt;&#x2F;p&gt;
+&lt;p&gt;The disappointments in the feelie department are, first, that I found a few
+passages unconvincing as editorial journalism, and, second, that the page
+abounds with what would appear to be links, but they can&#x27;t be clicked upon.
+This is hardly surprising considering that to implement an &lt;em&gt;entire&lt;&#x2F;em&gt; future
+newspaper as a game feelie would be a task of wearisome magnitude, providing
+diminishing returns in terms of enjoyability. But, but, but, I hasten to say, I
+would rather have seen these as mere references to other pages I didn&#x27;t possess
+than as bright-blue-underlined-html-style things that just begged to be clicked
+on and then did nothing. This is the equivalent of examining something
+mentioned in a game and getting &amp;quot;You can see no such thing.&amp;quot;&lt;&#x2F;p&gt;
+&lt;p&gt;All the same, the feelies are a useful and perhaps even necessary background to
+understanding what is going on in the game, and they are pleasantly
+illustrated. The sense of whimsy of Infocom feelies is absent; perhaps it would
+be out of place, though I would point out that Infocom&#x27;s feelies tended to be
+entertaining even when the games themselves were somewhat serious. Or perhaps I
+just derived too much excitable dread from wondering what would happen if I
+swallowed the pill samples from &lt;em&gt;Deadline&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;The game itself bears out the coldness and strangeness of the feelie page. Your
+player character obviously possesses considerable and important knowledge about
+what is going on, but you as the player have no access to his emotions; he sees
+and understands much, but the descriptions are abstractly scientific and
+mathematical, with only the twinges of an underlying bias. Nonetheless, one
+begins to assemble a picture of what is going on — which is good,
+considering how much you are required, at the beginning, to act in a vacuum of
+understanding.&lt;&#x2F;p&gt;
+&lt;p&gt;This vacuum, combined with the iced precision of the object descriptions and
+the non-interactivity of the NPC (about which more in a moment), almost caused
+me to give up on this game in the early stages. There is plenty to look at, but
+it is not always that exciting to see; examination of each object and each
+component of an object becomes more a discipline than a pleasure. I always know
+that I&#x27;ve lost immersion when I pick out the nouns from a paragraph and type
+&lt;code&gt;&amp;gt;X THING&lt;&#x2F;code&gt;, &lt;code&gt;&amp;gt;X NEXT THING&lt;&#x2F;code&gt;, &lt;code&gt;&amp;gt;X LAST THING&lt;&#x2F;code&gt; in quick succession without
+bothering to read the answers in between. It&#x27;s a kind of trick to make sure
+that I don&#x27;t miss or forget anything, and I can catch up and read the
+descriptions that result afterwards. But it also tends to point to a distrust
+of the game as narrative, or a loss of engagement. I was looking at objects in
+order to garner game-progressing information, not because I was inherently
+interested in what I would see thereby.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Being Andrew Plotkin&lt;&#x2F;em&gt; has, as a humorous effect, a scene in which you are
+seeing objects through zarf&#x27;s head, and they are given with exact measurements
+of sizes and shapes. But the funny thing is that precision in zarf&#x27;s own games
+tends to be in aid of, rather than a substitute for, striking imagery. &lt;em&gt;The
+Weapon&lt;&#x2F;em&gt; game had a sterility, a frosty quality, and something approaching
+emotional numbness on the PC&#x27;s part. It is the antithesis of wonder.&lt;&#x2F;p&gt;
+&lt;p&gt;The reason I harp so much on this problem of examining is that it constitutes
+most of what you have to do in the game. There are indeed puzzles, but most of
+the puzzles consist of using the behavior of items that you have examined.
+Usually fairly directly. I know I have come out in favor of something very like
+this in the case of, say, &lt;em&gt;Spider and Web&lt;&#x2F;em&gt;, and that a similar complaint could
+be leveled at my own &lt;em&gt;Metamorphoses&lt;&#x2F;em&gt;, but I think there&#x27;s a fundamental
+difference between examining something to find out what it will do and
+examining something to be told what you should use it for. Descriptions in &lt;em&gt;The
+Weapon&lt;&#x2F;em&gt; seem to be all hint and puzzle component &lt;em&gt;and nothing else&lt;&#x2F;em&gt;. This might
+be workable in a game with a clearer sense of plot (for the player, I mean; the
+author has a very good sense of the plot of his game, and it is a compact piece
+reminiscent of an old-series &lt;em&gt;Twilight Zone&lt;&#x2F;em&gt; episode, featuring no deviations
+or variations.) But for the player, it&#x27;s not clear why he&#x27;s doing what he&#x27;s
+doing, at first, so there&#x27;s no pay-off at the story level for doing things. The
+problem is that what the player has to do in the short term isn&#x27;t especially
+fun (no toy value) and one starts with no sense of the overall procedure or
+plot (no story value).&lt;&#x2F;p&gt;
+&lt;p&gt;The other irritation (as I mentioned above) is the problem with the NPC. Sean
+Barrett has relied, here, on a conversation system based on &lt;code&gt;&amp;gt;TALK&lt;&#x2F;code&gt; (a la
+&lt;em&gt;Kaged&lt;&#x2F;em&gt; or &lt;em&gt;Masquerade&lt;&#x2F;em&gt;), combined with more specific commands like &lt;code&gt;&amp;gt;ASK PERSON FOR THING&lt;&#x2F;code&gt;. There is no way to inquire about topics of the player&#x27;s
+choice, either through menus or with ASK&#x2F;TELL. The monolithic &lt;code&gt;&amp;gt;TALK&lt;&#x2F;code&gt; worked
+(for me, at least) in the plot-heavy games referred to above: not only do you
+have a pretty good sense of who your character is and why that person acts a
+certain way, but you can also guess, within reason, what is likely to come out
+of the character&#x27;s mouth if you do choose to use talk.  Moreover, the momentum
+of both stories is sufficient to make it desirable to move forward through
+conversation scenes according to a script.&lt;&#x2F;p&gt;
+&lt;p&gt;Here there wasn&#x27;t a script so much as a few rather dull exchanges, most
+intended to shed light on the puzzles at hand. I had lots of questions and
+things I wanted to bring up, but I wasn&#x27;t allowed to.  The fact that I wasn&#x27;t
+allowed to itself probably has something to do with the shape of the story, but
+it was still kind of irritating. My PC only speaks when spoken to and never
+seems to generate particularly lengthy or interesting replies. The NPC speaking
+to him in only slightly better in this regard; she reveals her attitude towards
+the PC and her goals in game terms with an iron straight-forwardness that
+reveals no particular of character.  There&#x27;s not much by way of tension, or
+emotion, or flashes of humor however dark. And — and I can&#x27;t tell you why
+this bothered me so much — she tends not to reply to what &lt;em&gt;I&lt;&#x2F;em&gt; say until a
+turn after I said it. So some of the exchanges looked like this: &lt;code&gt;&amp;gt;TALK&lt;&#x2F;code&gt;.
+&lt;code&gt;&amp;gt;WAIT&lt;&#x2F;code&gt;. &lt;code&gt;&amp;gt;TALK&lt;&#x2F;code&gt;. &lt;code&gt;&amp;gt;WAIT&lt;&#x2F;code&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;I would have forgiven that if the conversation itself had been more
+interesting, however. I &lt;em&gt;believed&lt;&#x2F;em&gt; in the existence of some kind of
+relationship between the protagonist and his interrogator in &lt;em&gt;Spider and Web&lt;&#x2F;em&gt;
+(to which this game has certain distinct similarities of approach). Limited as
+that interaction was, I felt the emotional content of it. Here there are hints
+of some kind of history between the PC and the NPC, enough to provide the
+beginnings of an interesting conversation, but that goes by the wayside. In
+fact, come to think of it, if I wrote a game like this I would have them
+talking constantly, the conversation not a mere functional backdrop to what is
+happening but an important and integral part of the story.  Instead —
+silence, or extreme stiltedness. And my disappointment here is not the
+disappointment of an NPC fanatic but of a person forced to stare off in the
+other direction while a fireworks display occurs. I &lt;em&gt;think&lt;&#x2F;em&gt; there is the
+material for a very striking story here. It&#x27;s just not the one that gets told.&lt;&#x2F;p&gt;
+&lt;p&gt;I can mentally hear the author&#x27;s response now: That Was Intentional.  Yes,
+there may be an in-game reason for these things, just as there is an in-game
+reason for the obscurity and peculiarity of certain works by Mr. Plotkin. But
+the point is that you cannot let the service of an in-game goal make the game
+itself unrewarding to play in the short term, or people will quit. I did quit,
+but then I found myself wanting so badly to explain what I thought was wrong
+with the game that I had to go finish it anyway. You can consider this, if you
+like, a backhanded compliment; usually if I don&#x27;t like a game I don&#x27;t bother to
+review it, and finish it rarely unless it is quite easy or short. But there was
+considerable purpose and skill in this particular effort. It accomplishes some
+complicated tasks of parsing and object interaction creditably, is thoroughly
+implemented within its scope (ie, that everything should be examinable), and
+showed, as I said, no signs of bugginess that I could find.&lt;&#x2F;p&gt;
+&lt;p&gt;Bottom line: at some level flawless, but also without the passion for its
+characters, the sense of wonder in its environment, or the wacky humor that
+distinguish my favorite games. A careful execution of its concept, but not one
+that elicited much of a response from me, other than a vague curiosity to see
+whether my hunch about where it was all going was correct. (Answer: yes.) There
+were several puzzles whose solutions I would have been unlikely to guess on my
+own, even considering the hint-filled nature of the descriptions, but that&#x27;s
+okay, since there are also hint-filled menus. I&#x27;d say, I suppose, that it
+succeeds quite well as a piece of programming, and that where it falls down is
+in the writing.&lt;&#x2F;p&gt;
+</content>
+    </entry>
+    <entry xml:lang="en">
+        <title>Have Psychosis, Will Travel</title>
+        <author><name>Sam Kabo Ashwell</name></author>
+        <published>2001-08-03T00:00:00+00:00</published>
+        <updated>2001-08-03T00:00:00+00:00</updated>
+        <link href="https://mjmusante.github.io/if-review/reviews/20010803/" type="text/html"/>
+        <id>https://mjmusante.github.io/if-review/reviews/20010803/</id>
+        <content type="html">&lt;p&gt;&lt;em&gt;(bigtime spoilers)&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;I&#x27;m often amazed at the quality of writing within the IF community, as
+contrasted to the other internet-based writing communities. Perhaps it&#x27;s
+because the process of coding requires a certain amount of persistence; perhaps
+the time required to code everything allows writers more time in which to
+critically edit their prose; undoubtedly the betatesting process improves the
+overall standard of writing. Unfortunately, none of these apply when the piece
+in question happens to be a transcript. Maybe it&#x27;s because the community&#x27;s
+insularity scares the dull elves off... but anyway, the review.&lt;&#x2F;p&gt;
+&lt;p&gt;I read &lt;em&gt;Time Bastard&lt;&#x2F;em&gt; last of all the walkthroughcomp entries, by chance as much
+as anything. Having seen the other entries, I wasn&#x27;t expecting wonders. The
+first paragraph, therefore, blew me away: here, I realised, is some great
+writing. Maybe it&#x27;s because I&#x27;m at that stage in my mental development where a)
+antiestablishment rants = the pinnacle of morality, b) revolting = funny, and
+c) packed with references = sophistication but, nonetheless, I was surprised at
+how little reaction to it there was. The reason is, most probably, the fact
+that it&#x27;s just a transcript.&lt;&#x2F;p&gt;
+&lt;p&gt;The characterisation is excellent, with regard to both the protagonist and of
+most of the other NPCs. In fact, it&#x27;s far and away the strong point of the
+piece.  Now, in a character, I like flaws. A character without flaws is dull,
+boring, and devoid of personality. Vincent Dobbs, the eponymous &lt;em&gt;Time Bastard&lt;&#x2F;em&gt;,
+appears to be entirely composed of character flaws. He considers dried human
+skin as a writing material &#x27;a neat effect&#x27;, hurls his own phlegm to solve
+puzzles, and hands his friends napalm on the pretext that it&#x27;s Turkish Delight.
+In short, he is a self-admitted criminally insane sociopath. Naturally, this
+doesn&#x27;t make him any the less endearing; the best comic characters are the evil
+ones; Dobbs would be the best PC of the year if he had actually been coded.
+(Given what he actually is, this is just a little ironic). To add to the
+characterisation, everything is delivered in the irreverent style of the PC,
+usually amused (alternating with bipolar rapidity between laconic and
+exuberant) but occasionally bubbling over into chain-reaction rage, and
+occasionally (heaven forbid!) even quasi-seriousness. Given the second-person
+perspective of the vast majority of IF, the definition of the PC by his
+description of his environment is a largely underused technique, especially to
+the extent to which it is taken by &lt;em&gt;Time Bastard&lt;&#x2F;em&gt;; there is not a puzzle
+(except, perhaps, in the final scene) that&#x27;s resolved without, er... the phrase
+&#x27;hilarity ensues&#x27; can actually be used with genuine meaning here. The humour,
+however dark it gets, is light-hearted in the most inappropriate contexts (see
+&#x27;those kyoot Chinese kids they got working down in the Hazardous Materials
+refinery&#x27;); Vincent, in short, completely imposes himself upon the story at
+every level.  And a good thing too.&lt;&#x2F;p&gt;
+&lt;p&gt;As for the NPCs, I particularly loved Abdul. Much of the NPCs&#x27; actions reflect
+as much on the protagonist as on themselves, and there are some excellent
+touches here: for example, Abdul is reluctant to eat half of a &#x27;undulating cube
+of living unpleasantness&#x27; offered to him by Vincent, on the principle that it
+might be something unpleasant again, but on realising that it&#x27;s merely the
+remnants of a tentacled experiment in occult eugenics, that only a second ago
+was screeching at him from the ceiling, his response is &amp;quot;Ooo!  Calamari!&amp;quot;
+Essentially, Abdul is just Vincent with a superiority complex and a reverence
+of Cthulhu. He appears, unlike Dobbs, to know what he&#x27;s doing (this is
+undermined later on): this is pretty essential, since Abdul initiates most of
+the plot developments (one feels Vincent, left to his own devices, would never
+have done anything but hit people). Abdul&#x27;s more remote bastardliness gives a
+different comic perspective on the Time Bastard theme; his brand of insanity is
+contrasted nicely with Vincent&#x27;s, even when he&#x27;s only demonstrating the finer
+details of Tourette&#x27;s in the background.&lt;&#x2F;p&gt;
+&lt;p&gt;Given that the main strength of the piece lies in well-developed unpleasant
+characters, it comes as a strong and ironic contrast that the, er, villain is
+so completely tedious. Abdul and Vincent may be disgusting, but Purity is far
+worse: she&#x27;s bland (and intentionally so). Not only does she appear to be a
+graduate from the So, Mr Bond College of Unbelievable Bad Guys, (tell your
+enemies the intimate details of your evil masterplan, devise intricately
+horrible fates for them, let them escape) but she has no taste at all:&lt;&#x2F;p&gt;
+&lt;div class=&quot;gametext rounded&quot;&gt;
+        &lt;p&gt;Eww, they&#x27;re all sappy Larry Elmore-eque paintings of dragons!  You can 
+already feel your gorge beginning to rise.&lt;&#x2F;p&gt;
+&lt;p&gt;Purity follows your gaze.  &quot;I like dragons.&quot; she informs you coldly.&lt;p&gt;
+&lt;p&gt;You must destroy this woman as soon as humanly possible.&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+&lt;p&gt;As a symbol of homogenised corporate culture and a clichéd authority
+figure, she forms the ideal foil to Vincent; so much so that it&#x27;s a little
+unbelievable that the latter would be able to divert himself to puzzle-solving
+in her presence instead of attempting grievous bodily harm. (The general
+anti-authority theme is well developed and, though parodied by exaggeration as
+often as anything else in the piece (see the It&#x27;s Long Overdue rant) gives an
+impression of being essentially heartfelt). Apart from her role as a bad-guy
+parody, the humour fades and the tone becomes more serious as she becomes more
+prominent; Dobbs&#x27; previously explosive anti-authoritarian tone becomes almost
+subdued, which forms the dual role of allowing critical information to be
+imparted to the reader in a vaguely serious tone, and of developing a great
+deal of resentment: we want our interesting psycho back! What&#x27;s this tedious
+apricot woman doing dominating the narrative and making the prose all
+pedestrian? Where&#x27;s the mucus?&lt;&#x2F;p&gt;
+&lt;p&gt;The basic plot, in Matt&#x27;s own words, is Asshole Running Amok Through Time; this
+theme seems to be both separate from and (initially) stronger than the frame
+story and the plot; for a linear game, &lt;em&gt;Time Bastard&lt;&#x2F;em&gt; initially seems almost
+plotless. In fact, it seems to subvert all pretence of the game making sense to
+the development of the Bastard through Time idea; since it&#x27;s basically an
+intriguing idea, it carries it off for long enough to keep the reader&#x27;s
+attention to the final scene (though whether it could carry this off as
+walkthroughless IF is questionable; for example, in the penultimate Cromwell
+scene, not the strongest of the piece, the interest wanes; &lt;em&gt;Time Bastard&lt;&#x2F;em&gt; is
+essentially a rapid series of very powerful hooks, and the Cromwell scene
+doesn&#x27;t have any).  Rather than using the walkthroughcomp restraints as a
+starting point, the game feels as if the author took an idea and then hammered
+it into shape around the walkthrough. This turns out to be more or less the
+case; Matt says that the idea&#x27;s about six years old.&lt;&#x2F;p&gt;
+&lt;p&gt;The plot structure works well, although you don&#x27;t notice this until you&#x27;ve
+re-read it at least once, and it leaves most of the details for the reader to
+work out. The final resolution puts into context all the miscellaneous
+unexplained weirdness and seeming irrationality of earlier scenes, and to a
+large extent justifies it; re-reading and explaining events in the light of the
+ending is as much fun as reading it for the first time. In the light of the
+ending, things which at first appeared to be simply jokes on the nature of
+parser interaction, on the confines of the walkthroughcomp, and at the expense
+of IF generally can be interpreted as plot hints, and things which initially
+seemed completely pointless or irrational turn out to be jokes on the
+walkthroughcomp confines. Since &lt;em&gt;Time Bastard&lt;&#x2F;em&gt; doesn&#x27;t go out of its way to explain its
+every last detail, I found myself going through the piece with a fine-toothed
+comb and working out retrospective rationalisations. (A good technique; if you
+can get your readers cross-examining your writing, everything in that writing
+grows in significance). It even, potentially, explains why hard-man psychopath
+Dobbs is so intimately familiar with the details of geek subjects (IF, RPGs,
+use of the phrase w00t).&lt;&#x2F;p&gt;
+&lt;p&gt;For example, the sort of IF in which you don&#x27;t know why you&#x27;re trying to solve
+a puzzle until you&#x27;ve solved it, and possibly a couple more puzzles down the
+line. (I&#x27;m thinking of the Gold Boat puzzle in &lt;a href=&quot;http:&#x2F;&#x2F;www.ifwiki.org&#x2F;index.php&#x2F;Heroine%27s_Mantle&quot;&gt;Heroine&#x27;s
+Mantle&lt;&#x2F;a&gt; here). Time Bastard
+is very much that sort of IF, but constantly refers to the fact that this is
+the case (see the unreservedly superb Treasure Frenzy! conversation; initially,
+this appears to be solely genre satire (and there&#x27;s plenty in here that was
+probably intended only as genre parody) but this is rationalised by the ending.
+The plot, which up until the ending (and second reading) strikes one as a weak
+frame for a lot of injokes, character development and comp restraints, is
+suddenly justified in its own right; this sleight of hand gives it perhaps more
+apparent weight than it deserves in its own right. Another very nice technique,
+and the appreciation of good technique always adds to the enjoyment of a piece.&lt;&#x2F;p&gt;
+&lt;p&gt;If &lt;em&gt;Time Bastard&lt;&#x2F;em&gt; had been a fully-coded game, I would have said it had a good
+level of verbosity; since it&#x27;s a transcript, this would have been easier to
+achieve, and had it been actually interactive and without walkthrough, several
+commands (especially towards the end) would have been all but impossible to
+complete, but nonetheless: this is the density and quality of writing that
+makes the difference between text-based adventure and interactive literature.
+The same argument and qualifiers apply to the game&#x27;s (?) length. Similarly,
+it&#x27;s been pointed out that it had something of an advantage over the other
+transcript &lt;a href=&quot;http:&#x2F;&#x2F;www.ifwiki.org&#x2F;index.php&#x2F;WalkthroughComp&quot;&gt;walkthroughcomp&lt;&#x2F;a&gt;
+entrants in that it makes abundant use of non-essential commands which are, in
+fact, essential to have any idea about what&#x27;s going on, if not to actually
+complete the game it represents. It&#x27;s a reasonable point, but can&#x27;t really
+detract from &lt;em&gt;Time Bastard&lt;&#x2F;em&gt;&#x27;s value as a piece in its own right.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Time Bastard&lt;&#x2F;em&gt; is just a little bit injokey. If you don&#x27;t follow
+&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;rec.arts.int-fiction&quot;&gt;rec.arts.int-fiction&lt;&#x2F;a&gt; flame
+wars, one scene in particular makes no sense at all, but is hilarious
+otherwise. There are throwaway and considerably-less-than-throwaway references
+to a host of other works of IF, which, are, as injokes tend to be, amusing if
+you get &#x27;em and confusing if you don&#x27;t. Apart from that, it draws heavily
+(again, with knowing amusement) on the Cthulhu genre and on The Matrix. (Except
+that it takes steps the Matrix was too chicken to make; for example, the
+protagonist is &lt;em&gt;part&lt;&#x2F;em&gt; of nTopia rather than a human trapped in it, and the lead
+villain is much more closely identified with corporate megalomania and
+intrinsic human evil). And, yes, apparently that title is a corruption of the
+Terry Gilliam vehicle Time Bandits. As heavily and frequently as &lt;em&gt;Time Bastard&lt;&#x2F;em&gt;
+draws on genre and even cliché, it always does so, as with everything
+else, in gleefully self-aware style; the Pretentious Nazi Occultist Literature
+section is perhaps the most obvious example.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Time Bastard&lt;&#x2F;em&gt; is well-written, acutely self-aware, and so funny that it made me laugh out
+loud at least once; it&#x27;s a demonstration of what a well-conceived comp can
+achieve, an example of how very raw good ideas can be nailed down to some sort
+of structure, and extremely enjoyable to read. In short, in my humble opinion,
+this would be an excellent example of how IF should be done, if it were
+actually IF. Curse.&lt;&#x2F;p&gt;
+&lt;p&gt;Who&#x27;s_y0ur_d4ddy, indeed. If this doesn&#x27;t get turned into full-blown IF, Matt
+had better be prepared to be woken up one morning by the Yith breaking down his
+door.&lt;&#x2F;p&gt;
+</content>
+    </entry>
+    <entry xml:lang="en">
+        <title>First Reviews First</title>
+        <author><name>Emily Short</name></author>
+        <published>2001-07-27T00:00:00+00:00</published>
+        <updated>2001-07-27T00:00:00+00:00</updated>
+        <link href="https://mjmusante.github.io/if-review/reviews/20010727/" type="text/html"/>
+        <id>https://mjmusante.github.io/if-review/reviews/20010727/</id>
+        <content type="html">&lt;p&gt;&lt;em&gt;First Things First&lt;&#x2F;em&gt; is J. Robinson Wheeler&#x27;s newly-released but
+long-in-development TADS game.  He warns in the documentation for it that it is
+unlike much of his other work: after &lt;em&gt;Being Andrew Plotkin&lt;&#x2F;em&gt; or &lt;em&gt;The Kissing
+Bandit&lt;&#x2F;em&gt;, it&#x27;s startlingly broad in design.  And puzzle-oriented.  And a
+time-travel story.  We&#x27;ve seen time travel in IF before, as a major feature
+(&lt;em&gt;Jigsaw&lt;&#x2F;em&gt;) or as a puzzle set in a larger game (two Infocom games come to
+mind), but I don&#x27;t believe I have encountered any in which the time travel
+implications are so extensively implemented.  In &lt;em&gt;Jigsaw&lt;&#x2F;em&gt;, one either leaves a
+time period in an acceptable state or one doesn&#x27;t, and failing to do so doesn&#x27;t
+allow you to glimpse the alternate realities that resulted in any detail.
+FTF&#x27;s scope is more limited — a handful of locations, a few characters
+one knows personally rather than the whole world — but one can travel
+freely to and fro, making modifications and then viewing their effects.  An
+ambitious scheme, and it is easy to see why such a game would have taken a long
+time to develop and then (my mind cringes to think about it) beta-test.&lt;&#x2F;p&gt;
+&lt;p&gt;FTF is considerably larger than your average game these days (since, as noted,
+most of recent releases seem to be roughly competition sized.)  Not as
+fiendishly difficult and long to play as something like Heroine&#x27;s Mantle, but
+it still took me numerous hours, including staying up until dawn once and then
+a couple of further playings to check out avenues I&#x27;d failed to explore.&lt;&#x2F;p&gt;
+&lt;p&gt;It begins as an old-school sort of game, as the author freely admits and as is
+evident from the first few moves.  There&#x27;s lots of scenery that can&#x27;t be used
+or interacted with.  There&#x27;s an inventory limit, and limits to container
+holdings, but these limits are the frustrating sort that don&#x27;t emulate any
+feature of real life as I understand it: you can scrabble up the side of a
+house with your hands completely loaded.  (No, I don&#x27;t mind this, because it
+facilitates game play; I just find it odd that, given that I can do that, I
+can&#x27;t also carry a bazillion objects around in other circumstances.)  A tightly
+wedged drainpipe is capable of containing large objects.  Descriptions, at
+least in the early part of the game, sometimes fail to change when they ought
+to; you get &#x27;you finally step into {$place}&#x27; every time you go to a certain
+location, for instance.&lt;&#x2F;p&gt;
+&lt;p&gt;Early NPC characterization takes the form of one-line answers to keywords, and
+then randomized actions.  There are points where you are surrounded by people,
+milling around and doing things, but none of them is &#x27;important&#x27;: you can&#x27;t
+look at them or address them or interact with them in any way.&lt;&#x2F;p&gt;
+&lt;p&gt;The gameplay is similarly old-school, in that it consists of solving assorted
+puzzles for the sake of solving them, using some often widely distributed and
+peculiar components.  There are hints about what to do, granted; some of them
+are rather broadly placed.  There are also moments where it isn&#x27;t clear whether
+you&#x27;ve just lost your chance of victory or merely had something made less
+convenient.  At several such points it seemed that it would have been useful to
+have a &lt;code&gt;&amp;gt;WINNABLE&lt;&#x2F;code&gt; command, to find out whether I had really just ruined
+everything or whether I had merely placed it into a state from which I would be
+able to rescue myself again later.&lt;&#x2F;p&gt;
+&lt;p&gt;What else does an old-school game require?  Well, easter eggs, of course:
+check.  And some in-jokes: check.  References to old Implementors, to classic
+IF such as &lt;em&gt;Curses&lt;&#x2F;em&gt;, to popular ifMUD sayings, sprinkle themselves about in
+such a way as to almost-but-not-completely blend into the background.&lt;&#x2F;p&gt;
+&lt;p&gt;But, though the puzzles and some of the implementation date from a less
+enlightened age, the archaic features are treated with a mocking, retrospective
+humor.  You have to use &lt;code&gt;&amp;gt;SEARCH&lt;&#x2F;code&gt; sometimes.  Sometimes you have to use it a
+lot.  I&#x27;m just warning you now because I thought this was one of the most
+potentially annoying aspects of the game, but it was also hilarious.
+&amp;quot;Deprecated,&amp;quot; says Rob about some of the puzzles.  Here I am deprecating them,
+right on schedule.  But they are so self-conscious, so exuberant in their
+old-schoolness, that they were fun anyway.  Paradox? Maybe.&lt;&#x2F;p&gt;
+&lt;p&gt;Puzzly though the game is, I was able to solve the whole thing without
+resorting to external walkthroughs or hints, which is something I almost never
+do.  I had to ask someone after the fact for some information since I won with
+less than the optimal number of points, but the fact that I got that far at
+all is a testament to the fact that the game is designed, if not
+forgivingly, at least with an eye to being comprehensible.  There are many
+points at which you can lock yourself out of victory.  On the other hand,
+there were few puzzles that left me scratching my head and wondering how I
+was supposed to have read the author&#x27;s mind.  The game is also developed to
+provide hints; not only can you ask NPCs about topics and get useful
+nudges, but they will even occasionally volunteer things unsolicited about
+problems that you&#x27;ve been bashing your head against.  The realism of this
+effect may vary, but as a piece of game design it&#x27;s excellent, a sort of
+in-game adaptive hint system woven into the story.&lt;&#x2F;p&gt;
+&lt;p&gt;So the game presents itself as an old-school puzzle romp with a touch of wry
+self-mockery...&lt;&#x2F;p&gt;
+&lt;p&gt;...only, somewhere along the line, a plot begins to coalesce around you, and
+themes emerge.  The NPCs cease to be just means to an end and become the end in
+themselves.  The decisions that you have made blithely in pursuit of the game&#x27;s
+agenda begin to take on deeper significance, as their effects ripple through
+time.  To say too much about this would be to give the game away, but FTF is
+about more than it initially appears to be; the change of perspective is itself
+part of the story.  Classic old-school IF posits an anonymous adventurer with a
+casually egotistical view of the world: everything is, obviously, there for the
+taking, and one does what suits one&#x27;s own immediate ends, without qualm,
+because the player, of course, knows that the universe has indeed been arranged
+for the player-character&#x27;s use.  Not convenience, exactly; if it were arranged
+for his convenience there wouldn&#x27;t be so many problems about lamp-oil and
+twisty passages.  But there&#x27;s nothing wrong with taking what you can
+use and putting it to whatever purpose you desire.  One of the curious
+things about this game is that it progresses into its more modern,
+thoughtful stages, it also becomes less about the player character per
+se, who remains essentially a cipher in terms of personality, and more
+about the NPCs.  Somewhere along the line the player character must
+begin to act as though he has a conscience.&lt;&#x2F;p&gt;
+&lt;p&gt;How well the plot works for you may vary from person to person.  There were
+aspects of it that did not wholly satisfy me, despite the fascinating
+transition in the form of the game.  One of the necessities, perhaps, of
+plot-heavy design is that it tends to become railroaded, and the moments where
+the most is happening are also the ones where the player has the least control.
+There may not be any easy ways around that problem, but I found myself, at
+certain points, to be no more than a spectator in the evolution of someone
+else&#x27;s life.  Or of my own: it&#x27;s evident that my character does, or has done,
+or will do (figure out the temporality yourself) some interesting things,
+but at the moment I barely understand them and have little to do with them:
+there&#x27;s an element of faith in the preparation for events yet to come.&lt;&#x2F;p&gt;
+&lt;p&gt;This is not true of all aspects of the game, however.  There is one part of the
+plot that you must journey through, in prescribed fashion, to arrive at
+victory.  But there is another part that is wholly optional, and depends upon
+your personal compassion and determination; it reminded me of the optional
+rescue of a certain creature in &lt;em&gt;Worlds Apart&lt;&#x2F;em&gt;, but whereas I didn&#x27;t find
+myself motivated to figure out the puzzle in that case, here I was sufficiently
+bothered by failure that I replayed the game until I got a solution that
+pleased me.  I don&#x27;t know what to call this kind of development: new-school,
+perhaps?  But it represents the author&#x27;s willingness to back off and leave part
+of the story truly in the hands of the player, spelling out the implications of
+success and failure while leaving the choices to the protagonist.&lt;&#x2F;p&gt;
+&lt;p&gt;I approve, of course.&lt;&#x2F;p&gt;
+&lt;p&gt;Whatever your reaction to the later aspects of the game, you&#x27;re likely to find
+it at the very least an entertaining play.  At its best moments it is also
+surprising and thought-provoking.  There is an idea at the very core of it that
+I would like to talk about, as it touches upon IF and as it interacts with the
+time-travel scene, but I haven&#x27;t done thinking about it yet.  And, in any case,
+that belongs in a spoiler-proofed venue.  In the meantime, go and play the
+game.&lt;&#x2F;p&gt;
+</content>
+    </entry>
+    <entry xml:lang="en">
+        <title>Archaeology</title>
+        <author><name>Paul O&#x27;Brian</name></author>
+        <published>2001-06-29T00:00:00+00:00</published>
+        <updated>2001-06-29T00:00:00+00:00</updated>
+        <link href="https://mjmusante.github.io/if-review/reviews/20010629/" type="text/html"/>
+        <id>https://mjmusante.github.io/if-review/reviews/20010629/</id>
+        <content type="html">&lt;p&gt;Zork I was the first text adventure game I ever played, and I played it a lot.
+That game occupied many, many hours of my time and, to this day, it remains one
+of only a few Infocom games I was ever able to solve without hints, due solely
+to my stubborn and relentless attention to it.  Between those marathon
+childhood sessions and the occasions on which I&#x27;ve replayed it since, I have
+walked those underground caverns many times, and their geography is so fixed in
+my mind that I think if I should ever find myself transported there, I could
+navigate with ease.  Or, at least, that&#x27;s how I &lt;em&gt;used&lt;&#x2F;em&gt; to feel, before I
+started playing Dungeon and got my internal map thoroughly whacked.&lt;&#x2F;p&gt;
+&lt;p&gt;Dungeon is the predecessor to the Zork games; it was MIT&#x27;s answer to Crowther
+and Woods&#x27; &amp;quot;Adventure&amp;quot; and, much like that game, it lived on a mainframe, since
+its prodigious size was too great for the personal computers of its day. When
+the authors decided to make a commercial go of the text adventure business,
+they chopped Dungeon into three sections, rearranging the geography and adding
+some new elements to each chapter, especially the second and third. I&#x27;ve played
+the Zork games many times, but I had always wanted to play the mainframe
+version in order to better understand just what was added and what subtracted.
+So when I opened the WinGlk version of Andrew Plotkin&#x27;s C translation of the
+game, I was prepared for some shifts in layout compared to my deeply-graven
+memories of Zork I.&lt;&#x2F;p&gt;
+&lt;p&gt;What I wasn&#x27;t prepared for, though, was the way in which Dungeon gleefully
+confounds any sense of actual geography in exchange for making the game map
+another obstacle to be overcome. In Dungeon, connections that line up properly
+(for example, leaving one room to the south and entering the adjoining room
+from the north) are the exception rather than the rule. Instead, you may go
+west and find that to get back to where you came from, you have to go west
+&lt;em&gt;again&lt;&#x2F;em&gt;. In a recent article about &lt;a href=&quot;http:&#x2F;&#x2F;www.brasslantern.org&#x2F;writers&#x2F;iftheory&#x2F;setting.html&quot;&gt;crafting a good setting for fantasy IF&lt;&#x2F;a&gt;,
+Emily Short addressed this tendency:&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+[In] the ideal IF setting, the parts of the setting relate to each other in
+comprehensible ways. Things are located sensibly. I dislike mazes not only
+because you do have to map them but also because they interfere with and
+scramble up the intuitive sense of place that I otherwise build up as I play. 
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;In this sense, almost the entirety of Dungeon functions as a maze, and any
+coherent sense of place that might emerge is bound to get smacked down as soon
+as the next exit is explored. I have a pretty good knack for mapping in my
+head, and thus don&#x27;t tend to make a map while playing IF but, with this game,
+there was no way I could pursue that strategy.  Thus, grumbling, I hauled out
+my copy of GUEmap and tried diligently to record the tortured web of
+interconnections that make up the Dungeon landscape. When I finally finished, I
+&lt;a href=&quot;https:&#x2F;&#x2F;www.ifarchive.org&#x2F;if-archive&#x2F;solutions&#x2F;maps&#x2F;Dungeon.zip&quot;&gt;uploaded the results to
+GMD&lt;&#x2F;a&gt; so that
+other players like myself won&#x27;t have to struggle through the game&#x27;s mazes on
+their own.&lt;&#x2F;p&gt;
+&lt;p&gt;And oh, the mazes — in addition to the general illogic of its structure,
+Dungeon also sports several mazes, all of which carry the &amp;quot;warped connections&amp;quot;
+tendency to its furthest extreme. Of course, when seen from the historical
+perspective, these mazes make sense: Adventure had mazes, and since mazes are
+one of the easiest kinds of puzzles to create, it follows that the game
+attempting to top Adventure would have mazes of its own. What Dungeon does,
+though, is to twist the knife: not only does it present the player with mazes,
+it confounds the typical &amp;quot;drop item and map&amp;quot; strategy by having an NPC come
+along and remove or rearrange those items, taunting the player with comments
+like &amp;quot;My, I wonder who left this fine hot pepper sandwich here?&amp;quot;&lt;&#x2F;p&gt;
+&lt;p&gt;When viewed with a modern eye, obstacles like this make clear how different is
+the stance of modern IF from its ancestors. Dungeon set itself up unambiguously
+as the player&#x27;s antagonist, and it wasn&#x27;t particularly concerned with telling a
+story, nor even with describing a world. Plot is nonexistent, and fabulous
+treasures are described with perfunctory lines like &amp;quot;You see nothing special
+about the sapphire bracelet.&amp;quot; Instead, Dungeon puts its energies into confusing
+and confounding the player, and wacky map connections are but the tip of the
+iceberg. Along with the aforementioned mazes, there&#x27;s the light source, which
+always runs out at the worst possible times. There&#x27;s the Round Room, guaranteed
+to tangle any map. There are the &amp;quot;secret word&amp;quot; puzzles, some of which still
+perplex me to this day, even though I know how they operate. And of course,
+there&#x27;s the thief, whose annoyances are both numerous and legendary. Dungeon
+wants nothing more than to see you fail, and it&#x27;s not overly concerned with how
+much fun you might be having. As Robb Sherwin asserted on rec.games.int-fiction
+recently, &amp;quot;&lt;a href=&quot;http:&#x2F;&#x2F;groups.google.com&#x2F;groups?ic=1&amp;amp;selm=3b1d33a9.613499395%40voder&quot;&gt;Zork hates its player&lt;&#x2F;a&gt;.&amp;quot;&lt;&#x2F;p&gt;
+&lt;p&gt;Today&#x27;s IF, by contrast, works a bit harder to collaborate with the player,
+with the aim of creating a shared experience, both in setting and plot. Even
+the Zork games moved in this direction, at least in comparison to Dungeon,
+mitigating some of the latter game&#x27;s greatest excesses by straightening out
+many map connections, allowing more flexibility with the permanent light
+source, and providing a bit more description from time to time. The ways in
+which Infocom itself engineered the shift from &amp;quot;text-based puzzle games&amp;quot; to
+actual interactive fiction is a subject for another article, but what&#x27;s become
+clear is that where the emphasis was once on opposition, it has shifted
+steadily to cooperation.&lt;&#x2F;p&gt;
+&lt;p&gt;To my mind, this shift is both appropriate and necessary, and what playing
+Dungeon illuminated for me is that this movement towards collaborative IF is
+not the same thing as the concurrent movement towards &amp;quot;literary IF&amp;quot;, though
+they are often confused for one another. I can envision a game that, like
+Dungeon, has no particular literary pretensions, but unlike Dungeon, isn&#x27;t
+trying to undermine its player through the use of arbitrary techniques like
+twisty map connections and unreliable light sources. I would assert that
+collaborative IF doesn&#x27;t need to tell a story, and it certainly doesn&#x27;t need to
+aspire to literary greatness, but it does need to work with the player to
+create a rich, interactive world, and it does need to be concerned with giving
+the player a positive, fun experience. Of course collaborative IF can be
+puzzleless, but it needn&#x27;t be — puzzles can be part of the fun, as long
+as they aren&#x27;t geared towards forcing restarts after 800 moves, or making the
+player do tedious, menial work. The move away from antagonistic IF is the
+reason why things like mazes, limited light sources, and starvation puzzles are
+met with a chorus of jeers these days, but the elimination of these elements
+doesn&#x27;t necessarily dictate anything in particular about how literary or
+puzzleless a game might be.  Instead, the change makes the whole experience of
+IF more about fun than bloody-minded perseverance; playing Dungeon makes it
+clear how necessary this change was, and how far we&#x27;ve come since those
+mainframe days.&lt;&#x2F;p&gt;
+</content>
+    </entry>
+    <entry xml:lang="en">
+        <title>A Step</title>
+        <author><name>Emily Short</name></author>
+        <published>2001-06-22T00:00:00+00:00</published>
+        <updated>2001-06-22T00:00:00+00:00</updated>
+        <link href="https://mjmusante.github.io/if-review/reviews/20010622/" type="text/html"/>
+        <id>https://mjmusante.github.io/if-review/reviews/20010622/</id>
+        <content type="html">&lt;p&gt;&lt;em&gt;So Far&lt;&#x2F;em&gt; is one of those games that everyone is supposed to play. It&#x27;s the
+source of numerous jokes and references in other games; it is the longest (and
+some would say the most serious and most angst-ridden) of Zarf&#x27;s games, which
+earns it attention in and of itself. And, written in 1996, it is old enough to
+stand in the position of a classic in this brief community. (If the reviewer&#x27;s
+job is to tell people whether to play the game, I&#x27;m done now: you should,
+absolutely. But you knew that.)&lt;&#x2F;p&gt;
+&lt;p&gt;Because of its considerable reputation, I tried repeatedly to play it myself,
+and failed the first four or five times. The opening of the game is
+involving — almost oppressively so. I felt almost claustrophobic playing it,
+so vividly are the crowd and the summer heat evoked, so that it was a relief to
+escape from the first of the game&#x27;s environments. At the same time, I had the
+sense that I had left behind some important bit of plot, something that I could
+or should be interacting with, and I wasn&#x27;t sure whether I would ever be
+allowed to go back. The subsequent puzzles stumped me, in part because I was
+trying to make logical sense of the history of the worlds in which I was
+traveling, in part because I am not particularly good at visualizing complex
+machinery in the way required to manipulate it properly. One of the times I
+gave up, I complained to a friend that this was a game that required to be read
+slowly.&lt;&#x2F;p&gt;
+&lt;p&gt;I am no opponent of dense prose, and I don&#x27;t mind spending time reading. But I
+have always found that when I am deeply involved in a piece of interactive
+fiction, a sense of urgency builds so that I am too impatient to read deeply
+and receptively. I want short pieces of prose, not long paragraphs. And I
+don&#x27;t want flowery writing, either, or anything that stands between me and the
+most rapid possible comprehension. How am I supposed to know what to do when I
+am busy trying to ferret out the significance of lines upon lines of metaphor?
+Correspondingly I try for brevity in my own IF writing; I try to layer
+description through deep implementation, so that one description leads to
+another rather than the first surface description hitting the player with pages
+of prose. So I struggled with &lt;em&gt;So Far&lt;&#x2F;em&gt;, because my normal mode of playing IF is
+one in which I bash at things in order to understand them. I explore and
+summarize first, then tinker with the details to see what they will yield up.&lt;&#x2F;p&gt;
+&lt;p&gt;And that&#x27;s the wrong way to play this game, if one can talk about right and
+wrong approaches. This is the kind of game where you not only have to read
+each piece carefully and thoughtfully the first time, you also have to stand
+permanently apart from what&#x27;s going on. You&#x27;re doing things that make no real
+logical sense — by the hundred, it seems. Graham Nelson&#x27;s Player&#x27;s Bill of
+Rights is triumphantly defied by some of the acts of intuitive leaping,
+save-and-restore decipherment, and hindsight required to get through the game
+properly. Even so I only managed with liberal use of Lucian Smith&#x27;s
+Invisiclues and suggestions from friends on ifMUD. As Duncan Stevens says in
+his recent SPAG review of the same game, &lt;em&gt;So Far&lt;&#x2F;em&gt; works thematically, but the
+plot doesn&#x27;t entirely make sense.&lt;&#x2F;p&gt;
+&lt;p&gt;So it&#x27;s involving, as I said, because of the vivid landscapes and the
+portentous sense of meaning that pervades everything, but it is perhaps not
+immersive in the classic sense. The save-and-restore method of solving
+problems is one that quickly teaches you to disregard your PC&#x27;s life; danger is
+diminished thereby. (Adam Cadre&#x27;s &lt;em&gt;Varicella&lt;&#x2F;em&gt; carries this effect perhaps to
+its ultimate extreme, but it is present here as well.) I didn&#x27;t feel that I
+was the player character, exactly. After all, he would have had access to the
+background knowledge to explain (and wouldn&#x27;t that be convenient?) exactly what
+was going on between himself and his beloved(?) Aessa, among other things. I
+the player could only guess. The experience in that respect was a bit like
+reading a work of static fiction in which much of the background is
+deliberately withheld. I&#x27;m reminded of trying to read &lt;em&gt;The English Patient.&lt;&#x2F;em&gt;
+(I didn&#x27;t like it as much as the movie and stopped after page 2.)&lt;&#x2F;p&gt;
+&lt;p&gt;Thus far we have fiendish puzzles, a density of prose and concept that
+challenges the average approach to IF, and a certain amount of narrative
+distance between player and PC. Something relatively inaccessible, in short.
+But what the game gains by being obscure, by demanding intellectual attention
+at a high order, is the ability to address itself to abstracts. Interactive
+fiction is a medium that principally deals with the concrete: objects that you
+can pick up and move around in standardized ways, without resorting to too
+complex or elusive a vocabulary. Various people have proposed, for instance,
+NPC interaction systems that would make use of complicated verbs such as
+PROVOKE, APOLOGIZE, etc., but I have yet to see such a system that worked
+particularly well, despite having tried to devise one myself. Likewise
+important choices of a personal nature — not choices about how to fend off the
+alligator who is about to bite off your leg if you don&#x27;t feed him the ham, but
+choices about ethics or emotion — have always to be cast in terms of physical
+actions. Jigsaw, Spider and Web, and Tapestry all come to mind as having
+moments where the player&#x27;s moral choice is encapsulated in a physical action,
+the significance of which has been carefully developed and spelled out in
+advance. What &lt;em&gt;So Far&lt;&#x2F;em&gt; achieves that distinguishes itself even from these (which
+are themselves moments of high artistry in the genre) is not teaching the
+player how to regard a single action as representative of moral choice, but
+presenting the whole world in such a way that it seems redolent of such
+choices, tying the physical environment intimately to the emotional one in ways
+that are sometimes visible only in retrospect.&lt;&#x2F;p&gt;
+&lt;p&gt;To say that it relies on symbolic vocabulary is to understate the issue.
+Jigsaw, for instance, relies on symbolic vocabulary as well, especially in the
+endgame. But Nelson&#x27;s symbols are isolated and recognizable, and stand out
+from the landscape in their symbolic significance like a girl in a red dress.
+&#x27;Note this!&#x27; they say. And they are organized with a tidy symmetry, perfect
+and mathematical, so that the meaning of anything unexplained may be worked out
+by its relations to other symbols and the oppositions between them. Plotkin&#x27;s
+symbolism is merged wholly with the landscape; it &lt;em&gt;is&lt;&#x2F;em&gt; the landscape. The
+pieces are polyvalent and connotative, any given thing suggesting an array of
+connections and meanings, not denoting a single concept in its purity.&lt;&#x2F;p&gt;
+&lt;p&gt;I am not sure whether any subsequent work has approached it in this 
+regard. I am not sure that anyone has tried.&lt;&#x2F;p&gt;
+</content>
+    </entry>
+    <entry xml:lang="en">
+        <title>A Brief Flash</title>
+        <author><name>Jonathan Rosebaugh</name></author>
+        <published>2001-06-15T00:00:00+00:00</published>
+        <updated>2001-06-15T00:00:00+00:00</updated>
+        <link href="https://mjmusante.github.io/if-review/reviews/20010615/" type="text/html"/>
+        <id>https://mjmusante.github.io/if-review/reviews/20010615/</id>
+        <content type="html">&lt;p align=&quot;center&quot;&gt;
+                 HOPE is the thing with feathers&lt;br&gt;
+                    That perches in the soul,&lt;br&gt;
+              And sings the tune without the words,&lt;br&gt;
+                     And never stops at all&lt;br&gt;
+&lt;&#x2F;p&gt;
+&lt;p align=&quot;right&quot;&gt;&amp;mdash; Emily Dickinson&lt;&#x2F;p&gt;
+&lt;p&gt;In general, I hate TADS games. I&#x27;m not sure exactly why, but even in the best
+games, I find myself wishing that I was playing an Inform game. It is extremely
+rare that I find a TADS game capable of making me forget this. In fact, there
+have only been two. Glowgrass is one of those games.&lt;&#x2F;p&gt;
+&lt;p&gt;Like every game, Glowgrass has its flaws. Like a very few games, the story in
+Glowgrass covers over these flaws. The story packs a huge punch for such a
+small game, covering as it does themes of hope for humanity and for the
+individual.&lt;&#x2F;p&gt;
+&lt;p&gt;In many science-fiction books where humanity is out among the stars, Earth has
+been forgotten. Whether due to rendering the planet inhabitable or just plain
+leaving it behind, humanity quickly loses sight of its roots. &lt;em&gt;Foundation&lt;&#x2F;em&gt;
+visited this by describing archeologists&#x27; searches for the original planet of
+mankind, but even then, they could not pin it down. In Glowgrass, they have
+found that, but have lost track of what humanity &lt;em&gt;was&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;You play an archeologist, crash-landing at the site of an Ancient dwelling. You
+lose almost all of your tools, requiring you to lean on your wits alone to find
+some way to get back to civilization.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Note: From here on, there may be spoilers for various parts of the game. If
+you do not want to read these spoilers, go play the game. It&#x27;s worth it. Thank
+you.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Humanity has fallen. Normally this would entail a story somewhat like &lt;em&gt;The
+Postman&lt;&#x2F;em&gt;, with a strong young man leading humanity out of a neo-dark age.
+Unfortunatly, there does not seem to have been a strong young man available at
+the time, as humanity quickly went extinct. All that&#x27;s left are houses and cars
+and such — and one young girl who turned herself into an AI.&lt;&#x2F;p&gt;
+&lt;p&gt;Marie is your guide to Post-Apocalyptic Earth, which looks a whole lot like
+Pre-Apocalyptic Earth except that you and she are the only people alive on the
+planet. You initially find her skeleton, with the mind-downloading device still
+sitting on her head. When you bring her up for the first time, she is scared
+— her whole world has fallen to pieces. She goes through the stages of
+grieving very quickly, perhaps too quickly. She decides to trust you, and the
+two of you set about finding a way to get back to civilization.&lt;&#x2F;p&gt;
+&lt;p&gt;The game worked for me, not because of the flashing prose, but because of the
+themes. I&#x27;ve always been partial to a good AI story — in fact, I have a
+WIP with one on the backburner right now. And I like a good end-of-the-world
+story, when it&#x27;s done well. And, of course, I like a good alien story, both
+with metaphorical and literal aliens. Let&#x27;s take those in order, shall we.&lt;&#x2F;p&gt;
+&lt;p&gt;AI has showed up in a few IF games, usually good ones. There may be a
+correlation here; I hope so. There&#x27;s something alluring about the prospect of
+creating something in our image. Zarf said it; We are made in the image of God,
+and what is God but the Creator? An AI would, by definition, be a very alien
+thing, but to my mind, the most successful AIs have been the ones that were
+like us.&lt;&#x2F;p&gt;
+&lt;p&gt;Marie is very much like us. She has been dragged into the future head-long and
+forced to adjust to radically different situations, and in typical
+monkey-fashion, she copes. What&#x27;s more, she manages to take charge of the
+situation, and get the PC back to civilization.&lt;&#x2F;p&gt;
+&lt;p&gt;Mankind is dead; long live mankind. We&#x27;re tenacious. Even when we do wipe
+ourselves back to barbarism, we tend to stick around. In Glowgrass, all that&#x27;s
+left is Marie and whatever the PC&#x27;s people have become, but even still, we
+remain.&lt;&#x2F;p&gt;
+&lt;p&gt;The most alien thing in this game is the PC. At the end, we are given a glimpse
+of how much has changed over the years. Humanity has altered even the very
+basic compounds on which our bodies operate, yet we remain able to relate to
+humans from before the plague. The most distressingly alien thing about them is
+that they seem to have forgotten Earth and what we were like, though this is
+understandable, given the time spans that must be involved.&lt;&#x2F;p&gt;
+&lt;p&gt;And in the end, it&#x27;s the story that takes the prize. We have characterization,
+we have plot, we have, here and there, a few puzzles, we have tension, and we
+have a resolution. We also have what I interpret to be a promise of a sequel,
+for which I am waiting eagerly.&lt;&#x2F;p&gt;
+</content>
+    </entry>
+    <entry xml:lang="en">
+        <title>Don&#x27;t Put Me On Hold</title>
+        <author><name>Adam Biltcliffe</name></author>
+        <published>2001-05-25T00:00:00+00:00</published>
+        <updated>2001-05-25T00:00:00+00:00</updated>
+        <link href="https://mjmusante.github.io/if-review/reviews/20010525/" type="text/html"/>
+        <id>https://mjmusante.github.io/if-review/reviews/20010525/</id>
+        <content type="html">&lt;p&gt;Disclaimer: In the review which follows, I&#x27;ve tried to avoid spoiling
+anything which you can&#x27;t find out for yourself within the first two or three
+moves. However, it is my belief that &lt;em&gt;FailSafe&lt;&#x2F;em&gt; is best experienced with no
+prior knowledge at all. My recommendation is this: it&#x27;s an excellent game,
+so go and play it now, without reading the rest of this review. Of course,
+some people might argue that that defeats the point of a review, to which
+I&#x27;m inclined to agree. So, trust me and play it now, or read the review
+first, it&#x27;s your choice.&lt;&#x2F;p&gt;
+&lt;div class=&quot;gametext rounded&quot;&gt;
+        Bzzt. Crackle. *Static*
+&lt;br&#x2F;&gt;
+&quot;...hello? Hello? Can... me? .. Anyone! Hel.... Need.. hello?&quot;
+&lt;&#x2F;div&gt;
+&lt;p&gt;Suddenly, a voice is pleading for help. This is the first hint we have of
+&lt;em&gt;FailSafe&lt;&#x2F;em&gt;&#x27;s subject matter: the title screen, and even the author&#x27;s original
+announcement of the game, remain carefully silent regarding anything more
+than the author and betatesters. Then abruptly we are dropped into a broken,
+poorly-transmitted radio conversation with an unknown NPC and left to fend
+for ourselves.&lt;&#x2F;p&gt;
+&lt;p&gt;This conversation, as it turns out, comprises the entire game. During the
+brief introduction, we discover that the voice on the other end is the sole
+survivor of some terrible disaster, and is now trapped on board a crippled
+spaceship falling towards the moon. The interaction in these first few
+exchanges feels very natural (except for one minor programming issue), such
+that it&#x27;s actually slightly disconcerting to realise that the conversation
+has turned into the game without you noticing.&lt;&#x2F;p&gt;
+&lt;p&gt;Essentially, you can order the unseen survivor around the wreck of the
+spacecraft very much like playing a conventional IF game. The style of the
+descriptions in the first person is reminiscent of &lt;em&gt;LASH&lt;&#x2F;em&gt;, and, to an extent,
+older, more conventional first-person games, but &lt;em&gt;FailSafe&lt;&#x2F;em&gt; is much more
+adventurous as regards conversation between the player and the protagonist.
+At points, the unseen NPC will ask questions, such as &amp;quot;shall I read the
+display to you?&amp;quot; — personally, I felt that this did a lot to make the
+dialogue seem more realistic and less like a conventional IF game (and,
+thankfully, such questions can be ignored entirely if you so desire). There
+are points, however, where the voice will come back with the same, sometimes
+quite lengthy, chunk of text in response to repeated actions, or even
+attempt obviously dangerous actions again in response to your command, with
+the same response. However, I found myself succumbing to an effect I&#x27;ve
+noticed before (something I seem to recall Emily Short saying she hoped
+players would do when playing &lt;em&gt;Galatea&lt;&#x2F;em&gt;): namely, once it became obvious that
+repeating actions gave rise to mimesis-breaking responses, I started
+avoiding doing it, because by this point, I was getting absorbed in the
+game. Maybe this was partly due to the air of mystery that accompanied the
+announcement but, as the protagonist explores the wreckage of the ship,
+there are subtle clues that something is not quite right.&lt;&#x2F;p&gt;
+&lt;p&gt;In addition to talking the survivor through trying to save what&#x27;s left of
+the ship and&#x2F;or escaping from it, there&#x27;s a secondary dialogue of a sort
+going on with some kind of computer program in response to the incoming
+information. As well as giving background information, this helps us see the
+PC&#x27;s role a little more clearly, and the incoming battle reports give a
+sense of the wider background.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;FailSafe&lt;&#x2F;em&gt; is not a difficult game — there aren&#x27;t really any puzzles to speak
+of in the traditional sense, meaning that it&#x27;s not hard to reach the end of
+the game with a little patience. However, there&#x27;s the ongoing puzzle-like
+element of trying to piece together a coherent vision of the environment
+from the fractured descriptions given by the NPC. It&#x27;s not so easy to work
+out exactly what is where within the rooms of the ship, although this
+problem seems more forgivable in light of &lt;em&gt;FailSafe&lt;&#x2F;em&gt;&#x27;s context than it does in
+other, more traditional games. One thing it&#x27;s a shame to see missing is that
+the protagonist never varies his or her phrasing when redescribing rooms,
+which would be useful to the player as well as strengthening mimesis.&lt;&#x2F;p&gt;
+&lt;p&gt;One complaint a lot of people had about this game was the fact that,
+presumably in an attempt to increase immersion, almost all the standard meta
+verbs are disabled; in particular, it&#x27;s impossible to save and restore. The
+relative shortness goes some way towards alleviating this, but there are
+multiple possible outcomes, and investigating all of them would be tedious
+on an interpreter which doesn&#x27;t allow you to save your commands and feed
+them back in. Additionally, some commands, notably movement, can&#x27;t be
+shortened as much as usual, but there&#x27;s not a great amount of moving around
+involved here in any case, so it seemed to me as though this particular
+change served mainly to reinforce the fact that the player is giving orders
+to another than mentally ordering herself around, by forcing the command to
+be phrased as such (&lt;code&gt;GO UP&lt;&#x2F;code&gt;). However, I can well imagine others disagreeing
+on this score.  Happily, &lt;code&gt;X&lt;&#x2F;code&gt;, &lt;code&gt;L&lt;&#x2F;code&gt; and &lt;code&gt;Z&lt;&#x2F;code&gt; still work with their usual
+meanings.&lt;&#x2F;p&gt;
+&lt;p&gt;Maybe it was because of the illusion of talking to a person rather than a
+parser, but I found myself spelling out commands in longhand much more
+frequently anyway: &lt;code&gt;LOOK AT THE CONSOLE&lt;&#x2F;code&gt; rather than &lt;code&gt;X CONSOLE&lt;&#x2F;code&gt; and similar
+(although I&#x27;ve noticed myself doing that anyway in the past, often when I
+suddenly get the feeling that an invisible presence is watching me type.
+Maybe I&#x27;m paranoid, but I digress).&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;FailSafe&lt;&#x2F;em&gt; is not a conventional work of IF, although I&#x27;d hesitate to label it
+as &#x27;experimental&#x27;. It&#x27;s not an experiment — the departures it makes from
+the &#x27;standard&#x27; model of IF are all carefully chosen for their effect in
+presenting the story, such that it is the story and the world behind it,
+rather than any kind of &#x27;gimmick&#x27;, which dominate at least my memories of
+the game. I&#x27;m hoping it&#x27;s also an example for authors of how the effort
+involved in doing something differently to the way most IF authoring systems
+expect is really worth doing if that&#x27;s how you think the story is best told.&lt;&#x2F;p&gt;
+</content>
+    </entry>
+    <entry xml:lang="en">
+        <title>Puzzles vs. History</title>
+        <author><name>Adam Cadre</name></author>
+        <published>2001-05-18T00:00:00+00:00</published>
+        <updated>2001-05-18T00:00:00+00:00</updated>
+        <link href="https://mjmusante.github.io/if-review/reviews/20010518/" type="text/html"/>
+        <id>https://mjmusante.github.io/if-review/reviews/20010518/</id>
+        <content type="html">&lt;p&gt;&lt;em&gt;Lost New York&lt;&#x2F;em&gt; by Neil deMause sends the player character bouncing around in
+time, from 1880 to 1905 to 1954 to 1780 to 2040.  But none of these dates has
+anywhere near as much effect on the shape of the game as its year of
+publication: 1996.&lt;&#x2F;p&gt;
+&lt;p&gt;For in 1996, the conventional wisdom asserted that the remaining audience for
+text adventures was after just that: text adventures. Games were essentially
+just series of puzzles, with the story as a backdrop, the model world as set
+decoration.  Yes, that backdrop and set decoration could be and often was
+masterfully designed, but the idea that simply building a model world for the
+player to poke around in or telling a story in which the player could
+participate constituted valid IF only gained widespread acceptance over the
+subsequent five years, as increasingly daring games placed less and less
+emphasis on puzzles and were rewarded with plaudits from an audience that found
+it rather liked that sort of thing.  But in 1996, how the audience might
+respond was an open question.  Given the amount of effort that goes into a
+full-length work of IF, most authors elected to go with the proven approach.
+&lt;em&gt;Lost New York&lt;&#x2F;em&gt; is no exception.  But while it follows the crowd, it does so with
+obvious reluctance.&lt;&#x2F;p&gt;
+&lt;p&gt;In the spirit of time travel, let&#x27;s jump back about 400 years, to the time of
+Shakespeare.  But not our Shakespeare -- this Shakespeare lives in an England
+where theater audiences are mad about juggling acts.  Day after day, the Globe
+is witness to trio after trio of balls, pins and torches being flung into the
+air.  But the audiences didn&#x27;t want to see &lt;em&gt;just&lt;&#x2F;em&gt; juggling; they wanted the
+juggling folded into a little story. Enter Shakespeare, who soars to fame on
+the strength of &amp;quot;Romeo and Juliet&amp;quot;, in which a pair of young people fall in
+love at a masked ball(the chief entertainment there: juggling), but then the
+boy&#x27;s friend and the girl&#x27;s cousin get into a ill-fated juggling contest and it
+all goes downhill from there.  Now Shakespeare decides he might like to try
+writing a history, perhaps something involving King Henry V... yes, a piece
+tracing his evolution from carousing prince to the inspirational leader of his
+countrymen in a great victory over the French.  But he can&#x27;t just tell that
+story -- where&#x27;s the juggling?  If there&#x27;s no juggling, it&#x27;s not a real play!
+So the first act ends up foregrounding a bunch of jugglers at the bar while
+Falstaff and Prince Hal talk in the background, and proceeds to the point where
+the jugglers accompanying the army are told that the English have won the
+battle... and the audience response is tepid because while the historical stuff
+is interesting, the juggling isn&#x27;t as accomplished as that in in &lt;em&gt;Rito and
+Imita&lt;&#x2F;em&gt;.  Shakespeare is left to mutter to himself about the constraints of the
+medium.&lt;&#x2F;p&gt;
+&lt;p&gt;Similarly, it&#x27;s clear that in &lt;em&gt;Lost New York&lt;&#x2F;em&gt; deMause&#x27;s heart is in the
+geographical and historical material.  Virtually all the prose is extremely
+deft, but never is the writing more alive, more joyous, than when you die and
+the author gets to tell you another wacky story about a long-dead mayor; never
+are the quips funnier than when they&#x27;re playing off the geography of the city
+(try going east from the City Hall area in 1880, or north into Hell&#x27;s Kitchen
+later on.)  The fact that the game begins with a slideshow and ends with a
+bibliography is another indication of where the author&#x27;s interests lie.  Hint:
+it&#x27;s not in fiddling around with hairpins and stopwatches.&lt;&#x2F;p&gt;
+&lt;p&gt;But because this was written in 1996, the author felt obliged to fill it with
+juggl-- I mean, puzzles.  And these are mostly not very good, being chiefly of
+the type where you&#x27;re wandering around and find a fishing pole, which you take
+because, well, it&#x27;s implemented; later on you find a stream, and go fishing
+because, well, that must be what the pole&#x27;s for; you catch a fish and, when you
+cut it open to cook it, a key falls out.  What was the key doing in the fish?
+Well, one of the conventions of the genre at the time was that you weren&#x27;t
+supposed to ask questions like that.  That&#x27;s not actually a puzzle from &lt;em&gt;Lost
+New York&lt;&#x2F;em&gt;, but many similar ones abound.&lt;&#x2F;p&gt;
+&lt;p&gt;Of course, while the &amp;quot;take everything that&#x27;s not nailed down, look under and
+behind and inside everything that is&amp;quot; ethic works fine in a dungeon, it gets to
+be a little absurd when transplanted to the island of Manhattan.  In &lt;em&gt;Lost New York&lt;&#x2F;em&gt;,
+Manhattan has like twelve things.  And that&#x27;s too many.  (Bet you thought
+I was going to go a different way with that, huh?)  Again, to avoid spoilers,
+I&#x27;ll disguise the details a bit.  Let&#x27;s say that the Upper West Side, circa
+1965, has been reduced to a single location with a mailbox in it.  Now, the
+problem is &lt;em&gt;not&lt;&#x2F;em&gt; that each street corner should be a separate location, nor
+that every item in every store and every apartment should be implemented. As it
+stands, the location works just fine as a representative area of the Upper West
+Side, and the mailbox works just fine as a representative mailbox.  BUT!  As
+soon as you fish around in the mailbox and pull out a live monkey (which you
+then stuff into your knapsack) you are no longer dealing with the Platonic
+Mailbox -- you&#x27;re dealing with a specific, highly unusual mailbox.  And by
+extension, this is no longer just a representative street corner: it&#x27;s the
+particular street corner with the strange monkey-containing mailbox.  And once
+players lose the sense that the locations they&#x27;re visiting are representative,
+they&#x27;re no longer wandering around Manhattan; they&#x27;re navigating a diorama of
+Manhattan with twelve things in it.&lt;&#x2F;p&gt;
+&lt;p&gt;But it didn&#x27;t have to be this way.  &lt;em&gt;Lost New York&lt;&#x2F;em&gt; is as much about the New
+Yorks that might have been as the ones that actually have, and in that spirit, I
+can&#x27;t help but muse about what might have happened had Neil deMause had his
+notes stolen one day in 1995.  Disheartened, he puts off the project for a few
+years, till his enthusiasm revives -- only now the IF landscape is different.
+&lt;em&gt;A Mind Forever Voyaging&lt;&#x2F;em&gt; is no longer a low-selling oddball; &lt;em&gt;lots&lt;&#x2F;em&gt; of games now
+revolve around exploration instead of dinking around with inventory.  And so
+this alternate, post-&#x27;96 version of &lt;em&gt;Lost New York&lt;&#x2F;em&gt; takes on a different shape.
+Instead of players getting little more than a glimpse of New York&#x27;s evolution,
+whatever gets mentioned in passing as they&#x27;re messing around with goats and
+baseballs in curiously limited regions of the city, they can now roam the
+entirety of the city freely, watching the different neighborhoods evolve.
+Perhaps the interaction with figures who clearly fascinate the author -- Robert
+Moses, Emma Goldman, the various mayors -- is more substantial... leading to
+more New Yorks that might have been, perhaps?  A fully implemented Moses-free
+New York, say, or one where Goldman&#x27;s ideals took root... perhaps even a
+modern-day New Amsterdam, if you diverge early enough.  And hey, TADS has
+multimedia now: why not throw some pictures into the mix?... oh, and...&lt;&#x2F;p&gt;
+&lt;p&gt;...and at this point I&#x27;ve got the blueprints for a 21st-century skyscraper and
+am waving them at the base of the Empire State Building. The game has been
+written, and if deMause is anything like me, the idea of revisiting a
+project that was long ago declared done is hardly an appealing one...&lt;&#x2F;p&gt;
+&lt;p&gt;...but hey, it&#x27;s New York.  If it were ever really finished, we wouldn&#x27;t have
+that old story about the visitor from Nebraska.&lt;&#x2F;p&gt;
+</content>
+    </entry>
+    <entry xml:lang="en">
+        <title>A Game Untangled</title>
+        <author><name>Emily Short</name></author>
+        <published>2001-05-11T00:00:00+00:00</published>
+        <updated>2001-05-11T00:00:00+00:00</updated>
+        <link href="https://mjmusante.github.io/if-review/reviews/20010511/" type="text/html"/>
+        <id>https://mjmusante.github.io/if-review/reviews/20010511/</id>
+        <content type="html">&lt;p&gt;This is one of those games of which it feels almost pointless to write a review
+because so many people have already reviewed it; besides, it&#x27;s widely enough
+played to be one of the canonical games that newsgroup posters use to
+illustrate a wide variety of things. If you&#x27;ve already played it, you already
+know your opinion.  If you haven&#x27;t, you probably still have an idea of whether
+you&#x27;d like it or not, unless you&#x27;ve been living under a box for the last
+several years (or not paying attention to the IF community, which is, for the
+purposes of this review, the same thing).  What remains to be said that has not
+already been said by reviews, by r*if, by the numerous XYZZYs it received? Why
+do I bother?&lt;&#x2F;p&gt;
+&lt;p&gt;People have talked about this game because of how it handles conveying
+information to the player, providing only gradually the things that the player
+character must already be well aware of; about how it restricts and controls
+interaction with the non-player characters, managing characterization in other
+ways; about how it filters in the necessary hints gradually, coaching you when
+you get things wrong.  The central conceit of the game -- that you are
+recounting an experience to an interrogator, and that all your actions already
+lie in the past -- makes all of these things possible and seamless.  And there
+is also the technical cleverness of the gadgets: the protagonist is given a
+large selection of entertaining toys to play with, which, like good IF toys,
+need to be figured out and then reapplied in a variety of different ways.&lt;&#x2F;p&gt;
+&lt;p&gt;But there are also aspects of this game&#x27;s success that have nothing to do with
+the elegance of the design as a design, however.  Indeed, I think they tend to
+go underexplored for the simple reason that the design is so very good.&lt;&#x2F;p&gt;
+&lt;p&gt;Part of it is the setting.  The interrogation chamber, the technological
+gadgets, the cold-war-esque tension between two superpowers of escalating
+genius and desperation: these are elements of the science fiction that colored
+my childhood.  In the 80s I was perennially conscious of the possibility that
+we would find ourselves at war at any time: a war which might take the form of
+nuclear disaster but might also somehow involve me personally in a situation of
+hideous choice.  In retrospect this was half because I was young enough to
+think the world revolved around me, and half because of my reading matter.
+Sylvia Louise Engdahl&#x27;s &lt;em&gt;The Far Side of Evil&lt;&#x2F;em&gt;, which featured a prolonged
+sequence of inprisonment and interrogation, made a particularly strong
+impression on me.  (It also fed into my existing sense of persecution by my
+schoolmates, who had a habit of snatching the book from my hands when I tried
+to read at recess and turning it upside down.  When I proceeded to read the
+book upside down the trick lost interest for them, apparently.)&lt;&#x2F;p&gt;
+&lt;p&gt;Spider and Web touches on the same trope: the great struggle for the fate of the
+world becomes embodied in a struggle of wills between two extraordinary people,
+the captured spy and the interrogating enemy. Whether it would have the same
+effect for someone born ten years after me, I don&#x27;t know; the world has
+changed, obviously.  That stark alignment of the universe certainly no longer
+seems to apply to real life, and I am much more frightened of what might happen
+in some small, unregarded country; danger now seems to come from the unexpected
+fanatic, not the ancient and inevitable enemy who is our equal in strength.&lt;&#x2F;p&gt;
+&lt;p&gt;The opening text of the game sets the stage for this very nicely, putting the
+protagonist in a country that feels like eastern Europe viewed through American
+eyes:&lt;&#x2F;p&gt;
+&lt;div class=&quot;gametext rounded&quot;&gt;
+        On the whole, it was worth the trip. The plains really were broad and
+grain-gold, if scarred with fences and agricultural crawlers. The mountains
+were overwhelming. And however much of the capital city is crusted with squat
+brick and faceless concrete hulks, there are still flashes of its historic
+charm. You&#x27;ve seen spires above the streets -- tiny green parks below
+tenements -- hidden jewels of fountains beyond walls. Any bland alley can
+concealbalconies wrought into iron gardens, fiery mosaics, a tree or bed of
+flowers nurtured by who knows who.
+&lt;&#x2F;div&gt;
+&lt;p&gt;Here is the sense of the grandeur of the countryside and the startling beauty of
+a place that has been around for hundreds of years.  My parents live in a
+suburb that didn&#x27;t really exist fifty years ago, where the local Historical
+Monument is a log house some guy built in the late 19th century.  There&#x27;s also
+a pretty famous house from the 1920s.  Going from that to, e.g., Prague leaves
+one with the impression that the universe has just expanded in a totally
+unexpected direction.&lt;&#x2F;p&gt;
+&lt;p&gt;Also embedded in the description, though, is a foreshadowing of the theme of
+concealment that pervades everything to come: this is a landscape of secrets,
+even outside the interrogation chamber.  Partly this is because in a
+totalitarian regime (and we are invited to see the enemy as such), any scrap of
+individuality must be privately guarded -- but the game reminds us again and
+again that the individuality exists, even (or perhaps especially) in the PC&#x27;s
+captor.&lt;&#x2F;p&gt;
+&lt;p&gt;As the narrative proceeds -- and I won&#x27;t describe it here -- the topics of
+cold-war discourse play themselves out: how much power belongs in anyone&#x27;s
+hands?  Are We really very different from Them? What of our common humanity do
+we sacrifice if we identify ourselves too eagerly with one side or the other?
+None of these are precisely new questions, but they work here, I think, because
+they are consistently brought to your attention through the personal
+relationship of captor and captured.  And the choices that you have to make
+become charged with ideological significance.&lt;&#x2F;p&gt;
+&lt;p&gt;Despite the linearity of the game, its ultimate meaning is entirely in your
+hands.  Or perhaps entirely in your mind.  There are a couple of endgame
+options -- &lt;em&gt;important&lt;&#x2F;em&gt; options, things that sum up the whole meaning of the
+story -- but you&#x27;re not told how they play out, one way or the other.  You get
+to choose, but you don&#x27;t get to know all the final ramifications.  People have
+found this unsatisfying, and griped.  I myself found it unsatisfying, and
+griped.  There&#x27;s something about it that is nonetheless true to morality in
+real life: not only do we often have to make our decisions blindly, but we
+cannot always know for certain even after the fact what the outcomes were or
+would have been.  The difficult ending shifts the onus of decision entirely on
+you: you pick one way or another because that&#x27;s what seems right to you.  The
+author will not afford you the kindness of telling you what you should have
+done.&lt;&#x2F;p&gt;
+</content>
+    </entry>
+    <entry xml:lang="en">
+        <title>On Common Ground</title>
+        <author><name>Emily Short</name></author>
+        <published>2001-04-13T00:00:00+00:00</published>
+        <updated>2001-04-13T00:00:00+00:00</updated>
+        <link href="https://mjmusante.github.io/if-review/reviews/20010413/" type="text/html"/>
+        <id>https://mjmusante.github.io/if-review/reviews/20010413/</id>
+        <content type="html">&lt;p&gt;Warning: the following is by necessity somewhat spoilery; though I 
+have tried to avoid explicit information about the events of the 
+game, reading it may affect your enjoyment if you haven&#x27;t played it 
+yet.&lt;&#x2F;p&gt;
+&lt;p&gt;Stephen Granade&#x27;s &lt;em&gt;Common Ground&lt;&#x2F;em&gt; is a short, friendly game, more 
+character-piece and story than puzzle.  By giving you the perspective 
+of each of three protagonists in turn, it sketches in the 
+relationships between members of a small family, showing you both 
+sides of each point of conflict.&lt;&#x2F;p&gt;
+&lt;p&gt;The technique of multiple viewpoints is a nifty one, used here with 
+nuance and attention to detail.  Object descriptions change, and new 
+ones pop in and out of view, depending on what the character might be 
+expected to notice or understand.  The effect is subtler than the use 
+of the same technique in &lt;em&gt;Exhibition&lt;&#x2F;em&gt; and less broadly humorous than 
+&lt;em&gt;Being Andrew Plotkin&lt;&#x2F;em&gt;: the characters are distinguished from each 
+other by smaller variations, a separation of a few degrees only. 
+Particularly fine is the way different people hear the &lt;em&gt;same&lt;&#x2F;em&gt; bits of 
+conversation differently.  Wording, tone, and sometimes even factual 
+content changes, depending on what is going on.&lt;&#x2F;p&gt;
+&lt;p&gt;Likewise subtle is the handling of what you have to do in the game. 
+Most of the activity is straightforward.  There is little that would 
+count as a puzzle; there are a number of required actions (especially 
+if you are one particular character), some of which are a bit boring, 
+but this is exactly to the point.  They convey perfectly the 
+irritation of the situation: leading a rather ordinary life full of 
+small frustrations.&lt;&#x2F;p&gt;
+&lt;p&gt;Ultimately, however, all this is in service of presenting a static 
+situation, and the nuance of game detail is not quite matched by 
+nuance of character depth.  By the end, you perceive how the 
+characters misunderstand and undervalue each other, but they are 
+still, in essence, rather stock characters: the rebellious teenage 
+girl, the overworked mother, the slightly boozy stepfather.  One can 
+sympathize with them to a degree, but they don&#x27;t distinguish 
+themselves with much particularity.  They lack pasts.  They lack 
+hobbies, and external interests.  This sort of thing makes it 
+difficult to care deeply about them.&lt;&#x2F;p&gt;
+&lt;p&gt;Also problematic, and on similar terms, is the restriction of what 
+one is allowed to say.  Interaction between characters uses the 
+device of TALK TO, which has been used more and more in recent games, 
+and to good effect in things like &lt;em&gt;Kaged&lt;&#x2F;em&gt;, I think.  But this is a 
+game that rests upon its interaction between people, in which the 
+relationships are the whole point; and it is a bit disappointing not 
+to be able to try certain conversational approaches.&lt;&#x2F;p&gt;
+&lt;p&gt;The implementation of the physical environment is likewise a bit 
+under-immersive.  The house doesn&#x27;t feel like a real house to me; it 
+feels like a stage set up with a few key props for the drama.  What 
+is there is precisely what must be there, and nothing more.&lt;&#x2F;p&gt;
+&lt;p&gt;To all of these criticisms there are two perfectly reasonable 
+objections.  One is that the nature of implementing this game -- one 
+in which three different characters experience the same events -- 
+severely restricts what one can do, since a PC cannot be forced to 
+recapitulate the behavior of the NPC in an earlier scene.  The more 
+immersive and fully interactive the game becomes, the more difficult 
+it is to police player actions in a way that will keep the outcome 
+consistent.&lt;&#x2F;p&gt;
+&lt;p&gt;The second, less technical and more aesthetic, is that the characters 
+are constrained by their nature.  They are bored, dissatisfied, and 
+just managing to scrape through in life.  Their lack of deep 
+dimension says something about how they perceive themselves. 
+Likewise, being who they are, they will only say certain things.&lt;&#x2F;p&gt;
+&lt;p&gt;The effect of all this is a bit like acting out a play -- a somewhat 
+minimalist play, at that, one of those modern ones with no 
+conceivable happy ending.  It presents the misery and disaffection of 
+suburban life, and constrains the player character(s) in such a way 
+that none of them really has a chance to rise above it.&lt;&#x2F;p&gt;
+&lt;p&gt;And what of the ending?  There is an important decision to be made, 
+and this is the one point at which you are not, in fact, constrained 
+to one course of action.  You can choose which of two things to do -- 
+but then you are never shown the outcome of the choice.  It is easy 
+enough to imagine what might ensue from either one, but in the 
+absence of any result at all, it&#x27;s hard to feel the significance of 
+the decision.  If you feel the power of the choice, it is entirely 
+because you imagine it yourself -- sketching in implications and 
+likely outcomes from your own personal experience, drawing on nothing 
+in the game for support.&lt;&#x2F;p&gt;
+&lt;p&gt;I&#x27;m not sure that it would have been wise to spell out, either in a 
+detailed interactive piece or in a cut-scene, what happens the next 
+day or the next week in lurid detail.  Such an addition might have 
+overbalanced the game, taking attention from the delicacy of the 
+chapters that are already there.  But it still does seem as though it 
+would have been possible -- and would have much strengthened the game 
+-- to make the decision itself more intense; to set up its emotional 
+importance to the characters more; to give it, one way or the other, 
+the force that it ought to have.&lt;&#x2F;p&gt;
+&lt;p&gt;What we have, then, is a well-crafted and subtly considered piece 
+that succeeds in many of its small goals, but possibly fails at the 
+larger one of involving the player deeply.  The story it tells seems 
+abridged and insufficient, and the characters never entirely free 
+themselves from stereotype.  At the same time, it takes on a 
+challenge rarely met in interactive fiction: it is entirely a story 
+about nebulous human decisions and personal relationships, without 
+wacky devices, melodramatic scenes, physical danger and pending 
+disaster.&lt;&#x2F;p&gt;
+</content>
+    </entry>
+    <entry xml:lang="en">
+        <title>A Dream of Lethe</title>
+        <author><name>Gunther Schmidl</name></author>
+        <published>2001-03-23T00:00:00+00:00</published>
+        <updated>2001-03-23T00:00:00+00:00</updated>
+        <link href="https://mjmusante.github.io/if-review/reviews/20010323/" type="text/html"/>
+        <id>https://mjmusante.github.io/if-review/reviews/20010323/</id>
+        <content type="html">&lt;p&gt;Here be, as always, spoilers. You have been warned.&lt;&#x2F;p&gt;
+&lt;p&gt;Dan Shiovitz&#x27; &lt;em&gt;Lethe Flow Phoenix&lt;&#x2F;em&gt; is different from other games.&lt;&#x2F;p&gt;
+&lt;p&gt;First of all, its style of narration at the start of the game reminded me of C. 
+S. Lewis&#x27; &lt;em&gt;The Magician&#x27;s Nephew&lt;&#x2F;em&gt; or, perhaps more flattering, Tolkien&#x27;s 
+&lt;em&gt;The Hobbit&lt;&#x2F;em&gt; with editorial comments like&lt;&#x2F;p&gt;
+&lt;div class=&quot;gametext rounded&quot;&gt;
+        The rock is oval, fairly heavy, and about the size of an apple or maybe even 
+slightly bigger.  Useful as a paperweight, I suppose.
+&lt;&#x2F;div&gt;
+&lt;p&gt;and charmingly drawn NPCs like a grumpy old tree trying to prevent you from
+climbing him:&lt;&#x2F;p&gt;
+&lt;div class=&quot;gametext rounded&quot;&gt;
+        &lt;p&gt;&quot;Hah!&quot;  says the tree.  &quot;That&#x27;ll teach you.&quot;  &quot;Ha!&quot;  you say back, grabbing the 
+apple.&lt;&#x2F;p&gt;
+&lt;p&gt;&amp;nbsp; &amp;nbsp; &quot;Oh,&quot; says the tree.  &quot;I hadn&#x27;t thought of that.&quot;&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+&lt;p&gt;This changes later as the game&#x27;s tone grows more serious (again, much like 
+Tolkien&#x27;s prose changed between &lt;em&gt;The Hobbit&lt;&#x2F;em&gt; and &lt;em&gt;The Lord of the 
+Rings&lt;&#x2F;em&gt;), but the entire game is beautifully written, with funny and 
+compelling descriptions. The world it is set in seems like a condensed version 
+of &lt;em&gt;Once and Future&lt;&#x2F;em&gt; (which it pre-dates by several years, of course) 
+sometimes, in that it is not a generic fantasy world but alive with strange 
+beasts and vivid locations.&lt;&#x2F;p&gt;
+&lt;p&gt;One small critique must be permitted amid all the praise: the game suffers (not
+much, though) from small oversights:&lt;&#x2F;p&gt;
+&lt;div class=&quot;gametext rounded&quot;&gt;
+        &lt;p&gt;&amp;gt;PUT IT IN CAGE&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&amp;gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+&lt;p&gt;(You receive no message to the effect, but the action has worked). Later on,
+there are a number of the TADS equivalent of &lt;code&gt;rtrue;&lt;&#x2F;code&gt; missing, and
+you&#x27;ll get the default response to an action displayed after Dan&#x27;s own, like 
+here:&lt;&#x2F;p&gt;
+&lt;div class=&quot;gametext rounded&quot;&gt;
+        You grab hold of the glider bar and adjust your position on it.  You&#x27;re ready to 
+fly!  Okay, you&#x27;re now wearing the hang-glider.
+&lt;&#x2F;div&gt;
+&lt;p&gt;Again, this doesn&#x27;t really matter much, and you&#x27;d probably have to be a
+programmer to realize these are oversights (but then again, maybe not).&lt;&#x2F;p&gt;
+&lt;p&gt;And I couldn&#x27;t resist throwing in part of one of my favourite funny 
+descriptions of all time:&lt;&#x2F;p&gt;
+&lt;div class=&quot;gametext rounded&quot;&gt;
+        Well, if you&#x27;ve ever wondered what was going on, you seem to have found the 
+place where whatever it is that is going on happens.
+&lt;&#x2F;div&gt;
+&lt;p&gt;The game is also one of the very few to use TADS&#x27; file input&#x2F;output features
+(the two others I can think of off the top of my head being &lt;em&gt;Losing Your 
+Grip&lt;&#x2F;em&gt; and &lt;em&gt;Lost New York&lt;&#x2F;em&gt;; I know I have forgotten at least one here).
+The first time you start it, you will be asked a few questions, the answers
+to which are stored in a configuration file so you won&#x27;t have to answer them
+again until you delete it.&lt;&#x2F;p&gt;
+&lt;p&gt;Another thing I don&#x27;t remember having seen in any other game are transitional
+messages as you walk from location to location, things like&lt;&#x2F;p&gt;
+&lt;div class=&quot;gametext rounded&quot;&gt;
+        &lt;p&gt;&amp;gt;N&lt;&#x2F;p&gt;
+&lt;p&gt;You walk north, and soon arrive back at the open field.&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+&lt;p&gt;One more thing of note: the game does not keep score in a traditional way. 
+Instead, it divides solvable puzzles into major and minor tasks and tells you
+how many of those you have achieved, then rates you according to that. Since
+all major objects must be accomplished to win the game, SCORE can give you
+an indication of how far along you are.&lt;&#x2F;p&gt;
+&lt;p&gt;(Note: just as I&#x27;m writing this, I&#x27;m reading through the help system again,
+and notice it contains something akin to this paragraph. I didn&#x27;t steal it
+from there, honestly!)&lt;&#x2F;p&gt;
+&lt;p&gt;So much for game mechanics - what is the game about? &lt;&#x2F;p&gt;
+&lt;p&gt;It begins harmlessly enough -- or, actually, it doesn&#x27;t as you quickly come
+to realize. It seems an accident that you fall off a cliff, but something
+rescues you -- bluesilver wings -- the Phoenix that gave the game part of its
+name?&lt;&#x2F;p&gt;
+&lt;p&gt;Whatever it is, you are transported to a fantasy world and are left to explore.
+It seems peaceful at first but, when you come across some mushrooms, things
+change quickly.&lt;&#x2F;p&gt;
+&lt;p&gt;Plot spoilers below -- mark the seemingly empty space with your mouse if you
+want to see this. Lynx users: sorry.&lt;&#x2F;p&gt;
+&lt;span class=&quot;bordered&quot;&gt;&lt;span class=&quot;spoiler&quot;&gt;It seems _you_ are the phoenix -- or at least one of many phoenices placed
+upon the Earth by a Fallen Angel to guard against an alien race known only as
+_Them_, as they have no pronouncable name in any Earth language. They 
+know that you are a threat, and They decided to kill you, but the Angel, 
+Daniel, brought you to safety. Now the fate of humanity lies with you...&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;The puzzles that are there are mostly logical, but some things will most likely
+involve a fair amount of trial and error. There are plenty of clues given by 
+the narrative itself -- either in the actual game text, or by NPCs (also in
+the form of little notes left lying around) -- and the help menu also contains
+several generic hints. Be sure to check it out after you win for a number of
+fun things to try.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Lethe Flow Phoenix&lt;&#x2F;em&gt; is a medium-short game (though Dan seemed to think it
+was too long for the first IF Competition), but that doesn&#x27;t make it any less
+good. The only gripe I had with it is that it was over before I wanted it to
+be over. Things are left unresolved, and while the ending certainly isn&#x27;t what
+you would expect, I felt it was better that way.&lt;&#x2F;p&gt;
+&lt;p&gt;The only thing that&#x27;s left to say to you is: play the best game ever:
+&lt;a href=&quot;http:&#x2F;&#x2F;plover.net&#x2F;%7Egschmidl&#x2F;speedif&#x2F;chef.gam&quot;&gt;You are a CHEF!&lt;&#x2F;a&gt;, also
+written by Dan Shiovitz, nominated for Best Writing in 2000&#x27;s XYZZY Awards.&lt;&#x2F;p&gt;
+&lt;p&gt;The other thing, left to say to Dan: write another game!&lt;&#x2F;p&gt;
+</content>
+    </entry>
+    <entry xml:lang="en">
+        <title>Getting a Grip on LYG</title>
+        <author><name>Gunther Schmidl</name></author>
+        <published>2001-03-16T00:00:00+00:00</published>
+        <updated>2001-03-16T00:00:00+00:00</updated>
+        <link href="https://mjmusante.github.io/if-review/reviews/20010316/" type="text/html"/>
+        <id>https://mjmusante.github.io/if-review/reviews/20010316/</id>
+        <content type="html">&lt;p&gt;&lt;em&gt;Here Be Spoilers&lt;&#x2F;em&gt;, naturally. Consider yourself warned.&lt;&#x2F;p&gt;
+&lt;p&gt;Stephen Granade&#x27;s &lt;em&gt;Losing Your Grip&lt;&#x2F;em&gt; is (or, rather, &#x27;was&#x27;: registration is
+no longer possible, and there is a free version forthcoming) one of the few 
+shareware games in the IF world. And like most shareware IF, it was well worth
+its price.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;LYG&lt;&#x2F;em&gt; is a &lt;em&gt;huge&lt;&#x2F;em&gt; game. It is divided into five fits and two 
+interludes, some larger, some smaller, but it&#x27;ll take you quite a while to get 
+through the game.&lt;&#x2F;p&gt;
+&lt;p&gt;Then you read a hint request on one of the Interactive Fiction-related 
+newsgroups, and you realize you can&#x27;t remember that happening in the game you
+played. Surely this person got the game wrong?&lt;&#x2F;p&gt;
+&lt;p&gt;They didn&#x27;t. Stephen sneakily made the game even larger -- and, thus, a lot more
+replayable than it already is -- by sending you to one of two different versions
+of a fit depending on small choices made in the fit before that.&lt;&#x2F;p&gt;
+&lt;p&gt;And he doesn&#x27;t do this once -- he does it twice. It&#x27;s pretty daring to include
+multiple paths in a story given the danger nobody ever discovers them, but
+he pulls it off beautifully. And the game is good enough you&#x27;ll want to go back
+and try the alternative fits as well.&lt;&#x2F;p&gt;
+&lt;p&gt;Apart from being huge and sneaky, &lt;em&gt;LYG&lt;&#x2F;em&gt; is also a difficult game, 
+especially in the later fits. The game begins harmless enough:&lt;&#x2F;p&gt;
+&lt;div class=&quot;gametext rounded&quot;&gt;
+        &lt;p&gt;&lt;b&gt;Rain and mud.&lt;&#x2F;b&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Those are your first solid memories.  Rain pouring down on your head, filling 
+your eyes.  Mud beneath your feet, filling your shoes.  Other details slowly 
+filter in.  The trees surrounding you.  The leaden skies above.  The chill wind 
+cutting through your clothes with ease.&lt;&#x2F;p&gt;
+&lt;p&gt;Shelter would be a good beginning.&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+&lt;p&gt;Come to think of it, this isn&#x27;t harmless at all. Nevermind.&lt;&#x2F;p&gt;
+&lt;p&gt;Like in the commercially released (and horribly under-rated) graphic adventure 
+game &lt;em&gt;Sanitarium&lt;&#x2F;em&gt;, &lt;em&gt;Losing Your Grip&lt;&#x2F;em&gt; is a bizarre journey through 
+the depths of the subconscious that would make Freud go green with envy. This
+is also where the similarities end -- almost. &lt;em&gt;LYG&lt;&#x2F;em&gt;&#x27;s backstory is 
+partially given away in the feelies you receive upon registration, and the game
+makes a lot more sense with them.&lt;&#x2F;p&gt;
+&lt;p&gt;After an encounter with the now famous buried human head &lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#1&quot;&gt;1&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;
+you do manage to find shelter. And this is where things start to get really
+strange.&lt;&#x2F;p&gt;
+&lt;p&gt;There is an abandoned building full of stopped clocks; a person named Frankie, 
+cataloguing spheres; objects that appear out of nowhere, containing -- what?
+Memories? Threats?&lt;&#x2F;p&gt;
+&lt;p&gt;Your explorations soon yield a companion, a name-able dog who accompanies you on 
+your further travels as well as being vital in solving puzzles. In fact, the 
+first puzzle involving him (no gender is given, but I think of the dog as male) 
+is not clued at all, as far as I can tell, and will probably involve having to 
+restart for most players when they realize they can not carry objects across 
+fits. This is, however, the only puzzle I really found &amp;quot;unfair&amp;quot; or &amp;quot;arbitrary&amp;quot; 
+(in a sense) -- I may have needed to use hints continuously in the later fits 
+(especially the Mathematical and the Abstract), but those puzzles were well 
+enough clued to be solvable without resorting to the excellent in-game hints, 
+given enough time.&lt;&#x2F;p&gt;
+&lt;p&gt;(Did I mention hints are only available when you register? Don&#x27;t worry, the
+forthcoming free version will probably provide them also.)&lt;&#x2F;p&gt;
+&lt;p&gt;Very many things in this game are allegorical, and most do not reveal their
+deeper meaning until a later Fit, if at all. Stephen deliberately does not 
+explain his own designs; he fears that players will see his words as 
+authoritative (which makes sense, him being the author and all) when he is much
+more interested in what players think. &amp;quot;Yes, it&#x27;s deliberate,&amp;quot; as Zarf would 
+say.&lt;&#x2F;p&gt;
+&lt;p&gt;Later fits take the player, Terry, into a hospital or his old school 
+(depending), a fairy-tale world, an abstract or mathematical puzzle-fest
+(again, depending) and finally to confrontation with his nemesis -- and 
+himself.&lt;&#x2F;p&gt;
+&lt;p&gt;The game is extremely well-written, the scenery pulling you right in. It 
+understands a surprising number of commands. My favourite: after a doctor
+had told me to &amp;quot;Administer CPR. Now,&amp;quot; I typed, without really thinking as the
+situation was urgent, &lt;code&gt;ADMINISTER CPR&lt;&#x2F;code&gt;, and lo! it worked. Excellent.&lt;&#x2F;p&gt;
+&lt;p&gt;The NPCs in the game respond to what they need to be able to respond to, and
+not much more. That&#x27;s perfectly fine with me; I&#x27;ve never been a friend of 
+talking to NPCs just to try and break mimesis. The only thing seeming a bit odd
+is dialogue along the lines of:&lt;&#x2F;p&gt;
+&lt;div class=&quot;gametext rounded&quot;&gt;
+        &lt;p&gt;&amp;gt;ASK FRANKIE ABOUT SPHERE&lt;&#x2F;p&gt;
+&lt;p&gt;Frankie asks, &quot;Which sphere do you mean, the pile of spheres, or the light 
+sphere?&quot;&lt;&#x2F;p&gt;
+&lt;p&gt;&amp;gt;THE PILE OF SPHERES&lt;&#x2F;p&gt;
+&lt;p&gt;(etc.)&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+&lt;p&gt;This response feels (and is, of course) artificial. Again, I don&#x27;t care much;
+gameplay is much more important, and this is where the game delivers. And 
+delivers. And delivers. After I&#x27;d beaten the game the first time, I tried all
+the possible alternative endings, which add so much more to the game. Then I
+went back and replayed it for the other two fits right away. When I replayed
+part of it for this review, I still liked it as much as the first time round.&lt;&#x2F;p&gt;
+&lt;p&gt;And that, my friends, is what counts in a game.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;(Note: If you want to know more about Losing Your Grip than you can possibly
+imagine you want to, there was an interview on 
+&lt;a href=&quot;http:&#x2F;&#x2F;ifmud.port4000.com&#x2F;&quot;&gt;ifMud&lt;&#x2F;a&gt; with Stephen, the transcript 
+of which you can find &lt;a href=&quot;http:&#x2F;&#x2F;www-bioc.rice.edu&#x2F;%7Elpsmith&#x2F;IF&#x2F;bookclub&#x2F;grip&#x2F;interview.html&quot;&gt;here&lt;&#x2F;a&gt;)&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;For those not in the know, Stephen implemented &lt;code&gt;KICK HEAD&lt;&#x2F;code&gt; as a verb.
+Naturally, instead of trying to help the head, everyone kicked it instead. 
+&lt;em&gt;[Ed. Note: This is untrue.  There are people who did try to help the head
+first, and only tried to kick it after running out of other verbs to try.]&lt;&#x2F;em&gt;
+Moreover, this one thing is what the game became (in)famous for, though there
+is so much more. Can&#x27;t have it all.&lt;&#x2F;p&gt;
+</content>
+    </entry>
+    <entry xml:lang="en">
+        <title>Smooching 101</title>
+        <author><name>Jonathan Rosebaugh</name></author>
+        <published>2001-03-02T00:00:00+00:00</published>
+        <updated>2001-03-02T00:00:00+00:00</updated>
+        <link href="https://mjmusante.github.io/if-review/reviews/20010302/" type="text/html"/>
+        <id>https://mjmusante.github.io/if-review/reviews/20010302/</id>
+        <content type="html">&lt;p&gt;Spoilers: There are parts of this review that may spoil some parts of the game
+for some people people. These parts are triple-rot13 encoded for your
+protection.&lt;&#x2F;p&gt;
+&lt;p&gt;If a game has a property defined by (quality of game) &#x2F; (time it took to make),
+then Pytho&#x27;s Mask has just beaten Shade&#x27;s record. It&#x27;s a bit rough around the
+edges, but it&#x27;s much better than what you&#x27;d expect from a game that took only
+one week to write, even from the master that is Emily Short. (Of course, I loved
+her SpeedIF entry, as well.)&lt;&#x2F;p&gt;
+&lt;p&gt;The plot is what we&#x27;ve come to expect from Emily. Take something that&#x27;s embedded
+in the background of our worldview, add a few twists, stir in a unique way of
+looking at it, and let settle into IF form. Serves everyone. (Ok, the Rats of
+NIMH ref in her SpeedIF entry is not quite as universal as Greek myth and
+Platonism, but I still loved it.) In a world reminiscent of the Romantic
+universe-picture, the earth and heavenly bodies influence events at court. The
+Comet, which comes only once a century, shatters the balance, both in heaven and
+on earth. This is the time when chaos can reign and those with a mind for dirty
+politics can exert their will. (Reading Tillyard&#x27;s The Elizabethan World Picture
+has really paid off.)&lt;&#x2F;p&gt;
+&lt;p&gt;The king has not been doing so well physically, and your Order (of which little
+is shown save that it is a force for order and justice) wishes that he remain
+capable of his office. The PC remains somewhat mysterious, though I believe that
+most of this is due either to the author&#x27;s constrained schedule or my inability
+to puzzle out some of the more badly coded parts. (Which are better than average
+IF, even so.) Also mysterious, though with a greater reason, is the man who got
+you an invitation to court on the Night of the Comet. He&#x27;s a Zorro-like figure
+with a black mask. V trg gur srryvat gung gur snpg gung ur vf va snpg gur cevapr
+vf fhccbfrq gb or zber boivbhf guna vg vf, gubhtu ntnva guvf znl or whfg zl onq
+yhpx. And the fortune-teller provides a very nice confirmation of the mythology
+of this world.&lt;&#x2F;p&gt;
+&lt;p&gt;Speaking of characters, Emily has created another very nice conversation system.
+It mixes the best parts of ASK&#x2F;TELL and menu-based conversation, though it
+doesn&#x27;t always work quite right. It&#x27;s been explained in detail in other places,
+so I won&#x27;t go into it here, but it&#x27;s really very good. I was sometimes left with
+the feeling that my character had zoned out for a bit and missed some
+conversation, but these few mimesis-shattering bugs are small, and can easily be
+fixed in future versions.&lt;&#x2F;p&gt;
+&lt;p&gt;Speaking of character and plot, perhaps now is a good time to mention that
+Pytho&#x27;s Mask was a SmoochieComp 2001 game, and as such it has not a little bit
+of romance involved. Here Emily&#x27;s skill with multiple endings especially shines
+through. You aren&#x27;t railroaded into any particular ending or relationship,
+though like the rest of the time, sometimes the interactivity seems sparse. This
+is, of course, the necessary side effect of a shortened development schedule.&lt;&#x2F;p&gt;
+&lt;p&gt;Ok. Those of you who read my Galatea review may be asking, &amp;quot;Does it mean
+anything?&amp;quot; to which I respond, &amp;quot;Doesn&#x27;t everything?&amp;quot; However, since answering
+with a question fails to satisfy anyone but Socrates and Jesus, I&#x27;ll say this.
+I&#x27;m not going to try to read deep things into this. Avril says that Soteria has
+a part to play, and she&#x27;ll play it the way she&#x27;s supposed to, come hell or high
+water, no matter what she does. This is not the way things actually are -- you
+can do many different things, resulting in endings all along a spectrum. Still,
+if she just sits back and lets the party unfold, nothing happens. This is mostly
+just due to the way Emily implemented this game, i think, but it can still mean
+something here. If you want to care. I like to think I do.&lt;&#x2F;p&gt;
+&lt;p&gt;I liked it. Will you? That depends. If you, as I do, think Emily is the best
+thing since sliced cheese, (zarf and Adam Cadre are bread and salami,
+respectively) by all means play this game. If you&#x27;d rather wait for a more
+finished product, Emily has said that she&#x27;s planning to fix it up a bit and
+release a version 2. Also, for budding IF authors, you should not try to write
+your game a week before deadlines. But if you do, this is what you should aspire
+to. I really liked this game. That&#x27;s a small catagory: Emily, zarf, and Adam
+star regulary here, and a handful of other authors show up too. Ah, what the
+heck. Just go play it.&lt;&#x2F;p&gt;
+</content>
+    </entry>
+    <entry xml:lang="en">
+        <title>Care For Another?</title>
+        <author><name>Emily Short</name></author>
+        <published>2001-02-23T00:00:00+00:00</published>
+        <updated>2001-02-23T00:00:00+00:00</updated>
+        <link href="https://mjmusante.github.io/if-review/reviews/20010223/" type="text/html"/>
+        <id>https://mjmusante.github.io/if-review/reviews/20010223/</id>
+        <content type="html">&lt;p&gt;Andrew Pontious&#x27; &lt;em&gt;Rematch&lt;&#x2F;em&gt; is the Aisle of puzzle games: a single move 
+is your window of opportunity to avert a negative outcome, which 
+means you will have to replay again and again.  147 times, in my case.&lt;&#x2F;p&gt;
+&lt;p&gt;In some ways this is the ultimate timed puzzle, and I don&#x27;t always 
+like timed puzzles.  &lt;em&gt;Change in the Weather&lt;&#x2F;em&gt;, wonderful though it was 
+in other respects, drove me just about nuts.  I survived the 
+experience only with a walkthrough and laudanum.  Since &lt;em&gt;Rematch&lt;&#x2F;em&gt; is 
+just the one move, however, you don&#x27;t have a long sequence to replay 
+only to fail.  The structure also enforces careful puzzle design: one 
+common complaint about bad puzzles is that they don&#x27;t give enough 
+feedback when you are close to, but have not yet arrived at, the 
+solution.  In &lt;em&gt;Rematch&lt;&#x2F;em&gt;, everything you can do necessarily produces 
+some outcome, often an instructive one.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Rematch&lt;&#x2F;em&gt; also accomplishes nicely a difficult task of IF recently 
+discussed on rgif: encouraging the player to use non-standard verbs 
+and syntax in order to accomplish game-specific goals.  There are a 
+number of verbs in the game that fall outside the normal lexicon of 
+IF games.  More to the point, however, Pontious has hacked the parser 
+to accept much longer than normal input strings, with multiple 
+indirect objects, for instance.  I wouldn&#x27;t have attempted these 
+except that game play seemed to demand it; after my first few 
+successes in this direction I had greater and greater faith in the 
+game&#x27;s ability to understand the most outlandish sequences (and, in 
+many cases, to have an interesting outcome for them.)&lt;&#x2F;p&gt;
+&lt;p&gt;This combines with the game&#x27;s other embedded hints to make for a 
+forward-moving rather than stuck-and-frustrated play experience most 
+of the time, and Pontious has also taken care to provide colorful or 
+entertaining outcomes for verbs that aren&#x27;t immediately relevant to 
+the puzzle, so that experimentation is rewarded.  Helpful also is the 
+auto-undo command, which undoes your actions each time you fail.&lt;&#x2F;p&gt;
+&lt;p&gt;The one-turn format does also work against the puzzle, though -- or 
+at least it did for me.  In order to reach a solution, you need to do 
+a certain amount of exploration -- gathering information, but at the 
+cost of losing over and over again.  This might have been less of an 
+issue had the event-to-be-prevented been less horrific.  As it was I 
+felt faintly guilty doing things that were not direct attempts at 
+solution, and it wasn&#x27;t until I was actually told to explore more 
+that I had the gumption to ignore the outcome and do so 
+systematically.&lt;&#x2F;p&gt;
+&lt;p&gt;Approached with this systematic detachment, it&#x27;s a successful if 
+somewhat evil puzzle.  I was confused when it was going on, then 
+gradually had more and more of a sense of what I wanted to do; at the 
+end, however, it all clicked together with a satisfying snap, leaving 
+no loose ends.&lt;&#x2F;p&gt;
+&lt;p&gt;As writing or story I think it is slightly less successful.  Even 
+excellent descriptions and dialogue begin to pall on the 129th 
+reading, and much of the NPC conversation has a somewhat stiff and 
+unconvincing quality.  There is a good reason for this, 
+gameplay-wise, but it lends strength to the impression, especially on 
+repeated playings, that these are clockwork people carrying out their 
+clockwork functions in a world where you alone are sentient.&lt;&#x2F;p&gt;
+&lt;p&gt;I mention this only because there is a story and characterization 
+going on here: adumbrated in the opening words of the game is the 
+relationship you have with the other characters, and the more you 
+play the clearer the situation becomes.  It is significant not only 
+from a puzzle point of view but also for the whole flavor of the 
+game; but it never develops beyond a certain point, because the scope 
+for development of complicated interrelationships is necessarily 
+somewhat limited here.  Shallowly worked out, but thematically 
+important.  My PC&#x27;s frustration with the unstoppable cycle of Fate 
+(the puzzle, the disaster, which play out over and over again) 
+mingles with his frustration over the interpersonal situation.  This 
+far, I think, it is effective.  On the other hand, the aforementioned 
+need to distance myself from the urgency of the puzzle distracts me 
+from viewing the characters as characters and encourages the attitude 
+that they are merely cogs in a complex interlocking gear system.&lt;&#x2F;p&gt;
+&lt;p&gt;Deeply moving narrative, then, it is not, partly because that is not 
+its purpose (arguably) and partly because the puzzle goes to war with 
+the story aspect and wins.  As a puzzle, though, it&#x27;s an entertaining 
+and rewarding one.&lt;&#x2F;p&gt;
+</content>
+    </entry>
+    <entry xml:lang="en">
+        <title>The Tale of the Reviewer</title>
+        <author><name>Gunther Schmidl</name></author>
+        <published>2001-02-16T00:00:00+00:00</published>
+        <updated>2001-02-16T00:00:00+00:00</updated>
+        <link href="https://mjmusante.github.io/if-review/reviews/20010216/" type="text/html"/>
+        <id>https://mjmusante.github.io/if-review/reviews/20010216/</id>
+        <content type="html">&lt;p&gt;&lt;strong&gt;Warning: Here Be Spoilers&lt;&#x2F;strong&gt;. If you see a lot of white space between 
+sentences, that means I&#x27;ve obscured part of the sentence to not give away 
+things you might not want to know. Mark with your mouse to see the spoiler.
+If you&#x27;re on Lynx, this won&#x27;t work. Sorry.&lt;&#x2F;p&gt;
+&lt;p&gt;Most people know Andrew Plotkin, or Zarf, as he refers to himself, for the text
+adventures he writes. Not too many know he has released an excellent puzzle 
+story game (or &amp;quot;abstract fairy tale&amp;quot;, as Zarf describes it) called &lt;em&gt;System&#x27;s 
+Twilight&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Part of the reason for this might be that it was only ever released for the
+Macintosh; another reason for people not playing it might have been that it was
+distributed as shareware until little more than a year ago.&lt;&#x2F;p&gt;
+&lt;p&gt;However, with the advent of emulators like 
+&lt;a href=&quot;http:&#x2F;&#x2F;gamma.nic.fi&#x2F;%7Elpesonen&#x2F;BasiliskII&#x2F;&quot;&gt;Basilisk II&lt;&#x2F;a&gt;, and the
+free availability of both MacOS 7.5.5 and 
+&lt;a href=&quot;http:&#x2F;&#x2F;www.eblong.com&#x2F;zarf&#x2F;twilight.html&quot;&gt;the game itself&lt;&#x2F;a&gt;, there&#x27;s 
+no more reason not to try it.&lt;&#x2F;p&gt;
+&lt;p&gt;I first played the shareware version in 1999, finished what was there, then
+registered to see the rest. And there&#x27;s a lot of game in there for a small
+download like this.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;System&#x27;s Twilight&lt;&#x2F;em&gt; is, first and foremost, a puzzle game. But not in the common
+&amp;quot;Sliding Puzzle - Maze - Towers of Hanoi - repeat&amp;quot; sense; instead, it requires
+you to plan logically, to think ahead, take notes and retry and retry and retry
+until you succeed.&lt;&#x2F;p&gt;
+&lt;p&gt;&amp;quot;Sadistic Software is devoted to making your head hurt&amp;quot; say the credits, and
+the game is good at that. While the first puzzles are (relatively) easy, 
+requiring you to find and manipulate words, connect circuit boards, traverse
+trees and duplicate patterns, they get a &lt;em&gt;lot&lt;&#x2F;em&gt; harder later on. Some are
+so hard, in fact, that I was wondering how anyone could have solved them 
+without the aid of the excellent Hint Guide.&lt;&#x2F;p&gt;
+&lt;p&gt;You will encounter many types of puzzles, and each branch on the map is usually
+devoted to one or two types. There is everything from pattern matching to
+Sokoban to puzzles I don&#x27;t even know a name for.&lt;&#x2F;p&gt;
+&lt;p&gt;Some of them require a very good grasp of the English language (for example &lt;span class=&quot;bordered&quot;&gt;&lt;span class=&quot;spoiler&quot;&gt;knowing that &amp;quot;score&amp;quot; &#x2F; 10 = 2&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;). One of the word
+puzzles is so fiendish that there is a hint for it in the &amp;quot;about&amp;quot; text and on
+the web page. &amp;quot;This is the only puzzle in the game that I believe is too hard&amp;quot;
+writes Zarf. I disagree :-)&lt;&#x2F;p&gt;
+&lt;p&gt;But the game is more than a puzzle-fest for the sake of itself. It also has a
+story.&lt;&#x2F;p&gt;
+&lt;p&gt;The game plays in the &amp;quot;System&amp;quot;, an abstract computer-like world with data
+streams, vaults, ruins, workshops and trees of the digital sort. You play &amp;quot;You&amp;quot;,
+the protagonist of the game, who is intent on finding out why the System is
+falling apart. On the way, you meet many interesting characters and try to
+uncover their respective agendas. The ultimate goal is to bring stability back
+to the System.&lt;&#x2F;p&gt;
+&lt;p&gt;When you finish each section, you are presented with a tale. All the tales and
+names in the game tie heavily into voodoo and African folklore. Some of the 
+names are explained when you finish the game; if you want a full list, check
+out the aforementioned Hint Guide. &lt;&#x2F;p&gt;
+&lt;p&gt;Usually, you can&#x27;t finish an entire section in one go; there is usually a point
+where you will get stuck and require an item that is to be found in another
+part of the game. As you slowly unlock more and more of the game, you gain a
+deeper understanding of what is behind the System&#x27;s problems and the various
+schemes and plans of the supporting cast.&lt;&#x2F;p&gt;
+&lt;p&gt;The final puzzle is a masterpiece of evil, and has been widely discussed on the
+Macintosh game newsgroups. It is fiendish and clever in almost the same way as
++=3 was. (If you&#x27;ve never heard of it, here&#x27;s a quick summary: you are 
+inventoryless and a troll requires three items from you to let you pass. There
+are no apparent things around, &lt;span class=&quot;bordered&quot;&gt;&lt;span class=&quot;spoiler&quot;&gt;and the solution is to 
+take off your clothes and shoes and give those to him&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;. +=3 was a concept
+game to get players to think out of the box; and this one is too, except that
+it&#x27;s clued troughout the game.&lt;&#x2F;p&gt;
+&lt;p&gt;Which doesn&#x27;t mean I have ever seen somebody reach it and not ask for help.&lt;&#x2F;p&gt;
+&lt;p&gt;A few niggles: it&#x27;s not possible to replay a puzzle. &amp;quot;Yes, it should be. No,
+I&#x27;m not touching the code again.&amp;quot; is the official reaction, and I say fair
+enough. &lt;&#x2F;p&gt;
+&lt;p&gt;The ending screen, I just noticed, still mentions the registration 
+sheet (which is available from the web page, but no longer necessary) and gives
+Zarf&#x27;s old e-mail address, while the &amp;quot;about&amp;quot; text gives the new one.&lt;&#x2F;p&gt;
+&lt;p&gt;What irked me was that the registration screen has been replaced with a 
+&amp;quot;register somebody else&#x27;s software&amp;quot; reminder. Nice intention, but completely
+out of place and annoying.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;System&#x27;s Twilight&lt;&#x2F;em&gt; is a game in the tradition of Cliff Johnson&#x27;s &lt;em&gt;The Fool&#x27;s 
+Errand&lt;&#x2F;em&gt; and &lt;em&gt;3 in Three&lt;&#x2F;em&gt;. I found it much more forgiving than &lt;em&gt;3 in 
+Three&lt;&#x2F;em&gt; (which I still haven&#x27;t solved and probably never will), but harder 
+than &lt;em&gt;The Fool&#x27;s Errand&lt;&#x2F;em&gt;. If you enjoyed any of those, or if you like hard 
+puzzles, this is a game for you. Conversely, if you enjoyed this game, you will 
+probably like the other two, but most likely not be able to find them anymore. 
+Unless, that is, you look into abandonware sites, which is bad blah blah 
+copyright blah blah who cares blah blah. If you&#x27;re more of the puzzle-less 
+fraction, steer clear of this game. I played the game again for this review, and 
+even though I was using the Hint Guide constantly to get through quickly, it 
+still took me several hours to get through - first-time players will most likely 
+be stumped for days, if not weeks.&lt;&#x2F;p&gt;
+&lt;p&gt;The end of the game promises another game in the same style, to be named 
+&lt;em&gt;Moondials&lt;&#x2F;em&gt;. I don&#x27;t know if it&#x27;s part of Murphy&#x27;s Law that any game announced
+before it&#x27;s done will never be released (or very vary late), but I hope 
+&lt;em&gt;Moondials&lt;&#x2F;em&gt; will be an exception.&lt;&#x2F;p&gt;
+&lt;p&gt;How about it, Mr. Plotkin?&lt;&#x2F;p&gt;
+</content>
+    </entry>
+    <entry xml:lang="en">
+        <title>An Undiminished Chord</title>
+        <author><name>Emily Short</name></author>
+        <published>2001-02-09T00:00:00+00:00</published>
+        <updated>2001-02-09T00:00:00+00:00</updated>
+        <link href="https://mjmusante.github.io/if-review/reviews/20010209/" type="text/html"/>
+        <id>https://mjmusante.github.io/if-review/reviews/20010209/</id>
+        <content type="html">&lt;p&gt;&lt;em&gt;Augmented Fourth&lt;&#x2F;em&gt; is a fairly easy puzzle romp whose appeal lies in
+wackily charming worldbuilding and sly jokes&#x2F;reworkings of classic IF
+and fantasy tropes. It&#x27;s well-crafted and polished (going to show,
+perhaps, that there&#x27;s no reason an author&#x27;s first-ever release can&#x27;t
+be competently assembled) and I encountered no bugs.  It did,
+however, have some irritating patches, mostly related to the design
+of the puzzles.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Augmented Fourth&lt;&#x2F;em&gt; uses an adapted-for-its-genre version of the
+Enchanter spellcasting concept: as a trumpeter you can play pieces
+whose magical power work transformations on your environment.  And
+like the Enchanter spells, these pieces must be painstakingly
+acquired and learned (though, fortunately, Uri has dispensed with the
+irritating requirement that one learn them over and over again.  Once
+you&#x27;ve learned a piece you know it; musicians are apparently less
+absentminded than magicians, as a rule.)  This is a fun system in its
+basic concept, and one reason it has been reused so many times over
+the years, I imagine, is that it permits the author to put
+considerable freedom into the hands of the player.&lt;&#x2F;p&gt;
+&lt;p&gt;There are, of course, a couple of possible downsides.  One is the
+combinatorial problem: you can trust that your players will try the
+spell in just about every conceivable situation, not only in the one
+or two places where it will solve a puzzle but in all the others,
+including several where it ought to cause major trouble.  Uri does a
+good job of providing interesting failure messages where the spells
+are not going to work; he is also aided by the fact that the
+music-spells are not directable, so instead of having to implement an
+interaction (or failure) for every game object, he only has to deal
+with every location.  This, I can only imagine, made things a lot
+simpler.&lt;&#x2F;p&gt;
+&lt;p&gt;The other downside is that the spells themselves do fairly odd and
+abstract things.  This is delightful when it works; when it doesn&#x27;t,
+one is often left wondering what&#x27;s missing and whether one is even
+trying the right thing.  In one sequence of the game in particular I
+was most of the way to the correct solution, but kept failing because
+I hadn&#x27;t set things up quite properly.  I had the idea; I just didn&#x27;t
+have the execution exactly as Uri envisioned it, and there were no
+&amp;quot;you&#x27;re almost right&amp;quot; messages to help me along, so I was left to
+wonder whether I had the right spell at all.  Making this even more
+frustrating is that the spells fail randomly, especially during the
+early section of the game; you can easily &#x27;misplay&#x27; a piece, not
+because it&#x27;s not the right piece for the moment but because the
+random number generator is not on your side.  This, boys and girls,
+is frustrating.  I suppose the idea is to convey the feeling of
+accomplishment as the game goes on and you become a more proficient
+musician, able to play correctly the first time, but it also makes
+the early puzzles a pain.&lt;&#x2F;p&gt;
+&lt;p&gt;So much for that: there were a couple of spots where I was held up by
+what I felt was an arbitrary lack of hintage, and insufficient
+indication when I was close.  There were also red herrings (besides
+the obvious one), some of them (to me at least) moderately confusing.
+On the whole, however, I didn&#x27;t find this to be too severe a problem.
+The author provides an elegantly implemented walkthrough too,
+available from gmd, htmlized so that you can highlight only the parts
+you want to see.  This is nice.&lt;&#x2F;p&gt;
+&lt;p&gt;This game also pointed up some spots in which my expectations have
+changed since early text adventure games.  &lt;em&gt;Augmented Fourth&lt;&#x2F;em&gt; does some
+things the Old Skool way.  The need to do arbitrary things just
+because they seem like they might be a good idea.  The freedom to
+mistreat NPCs, which, these days, makes me feel a little guilty.  The
+linearity of the game design, a lot of which consists of getting into
+one place which contains a key to another place where there&#x27;s a key
+to a third place...  Then, too, I nearly ran screaming when I
+encountered the, ah, maze.  Not to worry, though: it&#x27;s not as bad as
+it looks.&lt;&#x2F;p&gt;
+&lt;p&gt;And it all ends well: the endgame is satisfying and not too
+difficult, which is How It Should Be.&lt;&#x2F;p&gt;
+&lt;p&gt;There are moments of surrealism in the game, and plays on the names
+of things reminiscent of the un-un-machine, the T-remover, and other
+such mechanisms of text-only adventures.  There is much talk these
+days of simulationist IF, of achieving &amp;quot;immersion&amp;quot; by getting the
+player to identify as strongly as possible with the PC; &lt;em&gt;Augmented
+Fourth&lt;&#x2F;em&gt; pursues a different direction, never trying to pull the player
+in but keeping much of the amusement value of the game precisely at
+that interface between player and player character.  I think I
+derived as much amusement from the score notification system as I did
+from some of the puzzles.  At the same time, there is a consistent
+story providing context for all this -- which the player also
+receives in an unimmersive way, by receiving flashes of what is
+happening &amp;quot;meanwhile&amp;quot; in another part of the kingdom.  The result is
+stylish and entertaining, even if not emotionally compelling
+particularly; I never felt suspense or was particularly concerned
+about the jeopardy of my PC, for instance.  But that was, in this
+case, fine.&lt;&#x2F;p&gt;
+&lt;p&gt;Where &lt;em&gt;Augmented Fourth&lt;&#x2F;em&gt; shines most is in the goofy style, which, with
+its numerous animals and brightly colored objects, frequently
+reminded me of a children&#x27;s book.  Combined with the relative
+easiness and the elegant implementation (which deals nicely with book
+objects and other tricky items), this makes it a pleasant way to
+spend a few hours.&lt;&#x2F;p&gt;
+</content>
+    </entry>
+    <entry xml:lang="en">
+        <title>Deus Ex Machine</title>
+        <author><name>Sam Kabo Ashwell</name></author>
+        <published>2001-02-02T00:00:00+00:00</published>
+        <updated>2001-02-02T00:00:00+00:00</updated>
+        <link href="https://mjmusante.github.io/if-review/reviews/20010202/" type="text/html"/>
+        <id>https://mjmusante.github.io/if-review/reviews/20010202/</id>
+        <content type="html">&lt;p&gt;The first thing you notice about BAD_MACHINE is that everything looks like code. (There&#x27;s a suggestion, almost
+certainly intentional, that something&#x27;s wrong with your game file, a nice touch that also suggests
+machine-empathy and eases the transition to thinking like a machine a little). The basic outline: you play a
+robot, Mover #005, whose normal mindless existence as a worker for an entity called the Warehouse is disrupted
+by an unspecified disaster. The damage caused to him not only disrupts various of his settings and his
+delivery of code (much of the code appears corrupt) but to achieve... sentience? Motive? Independence? Whatever
+it may be, it earns him the title of Bad_Machine (fully functional CPUs are referred to as Good_Machine) and
+brings him under the threat of destruction or reprogramming by minions of the omnipresent Warehouse. It&#x27;s a
+very dark piece, but only you realize it is: 005 is too restricted by his code and immersed in the Warehouse
+to realize the tragedy and pathos of his story.&lt;&#x2F;p&gt;
+&lt;p&gt;BAD_MACHINE would really, really confuse a first-time IF player. And it helps one hell of a lot if you&#x27;re
+familiar with writing code of some sort because so much of the important information is in code or uses
+code-like syntax. This feels, at first, like a blend between wilful anti-verbosity and artistic experiment.
+Certainly, games have been written that play around with the relationship between player, parser, and
+protagonist (LASH, Resident) and with freedom-of-robots themes (LASH, Galatea, Delusions) but never, to my
+knowledge, anything quite this extreme. (In other media, the first things I thought of were the enslaved
+robots of I, Robot and the machine-mind of RoboRally). There&#x27;s a definite feel for the medium: unlike much of
+IF, Bmch would be completely impractical if transferred to literature, film or other narrative media. And I
+can imagine how much work must have gone into rewriting the basic library to achieve this effect.&lt;&#x2F;p&gt;
+&lt;p&gt;The technique has a lot of force at times, and capably turns the weaknesses of IF to its advantage. The
+robot&#x27;s confusion at achieving sentience(?) is mirrored by the player&#x27;s confusion at having to operate in
+code: the difficulty in moving and examining things add to the apparent inevitability of 005&#x27;s fate: 005 has
+only just gained sentience(?), he is (like the player) being pursued in a bizarre place by an omniescent,
+omnipresent faceless enemy. The irony is that only the player gets the feeling of fear and dread: 005 is
+unable to express or produce it. This is indicative of the different way the player and 005 see the game: even
+though we are more unfamiliar with the meaning of the code, we can assess its import.&lt;&#x2F;p&gt;
+&lt;p&gt;The disquieting presence of even more enslaved robots than 005 around him, following endlessly repeating loops
+until they fall apart, is another IF weakness turned to an advantage. The author acknowledges his debt to
+imagery of group insects, and it shows in the sorts of robots defined: the robots do not repower from plugs
+but from an Energizer, and other classes of robot (drone, worker, assaulter, queen) show this too. The story
+thus possibly owes a debt, indirectly, to various works based on ant or bee-based literature (Ursula K. Le
+Guin&#x27;s &lt;em&gt;The Compass Rose&lt;&#x2F;em&gt;, the ant sequences in the &lt;em&gt;Once and Future King&lt;&#x2F;em&gt;), as well as to Asimov&#x27;s Robot stories;
+though, of course, it&#x27;s hard to be sure.&lt;&#x2F;p&gt;
+&lt;p&gt;The feeling of fear and pursuit was, as I played it, only apparent after starting the game again after losing
+for the first time (another nice touch: no &amp;quot;You have lost&amp;quot; type message if you get repaired or destroyed, the
+code says it all): the first time I was captured by other automata, I felt (whether the writer was aware of
+this or not I don&#x27;t know) a feeling of hope (I&#x27;m going to be repaired, then I can be told my real mission!)
+combined with an underlying anxiety (no you&#x27;re not, your head&#x27;s being bolted back on and back to work you go).
+Once you&#x27;ve worked out what&#x27;ll kill you and what&#x27;ll keep you safe, this fades a little, which is a shame.&lt;&#x2F;p&gt;
+&lt;p&gt;In terms of pure pleasure at playing, I must admit that, while there were a few good points, the game was
+overall quite hard work. Perhaps it&#x27;s because I principally enjoy IF for the literary aspect: plot, dialogue,
+description, atmosphere, themes. As far as the first three go, there isn&#x27;t a great deal (although I think it
+was Camus who coined the immortal phrase &amp;quot;probabilistic anti-awareness test dumping memory full-on
+{i:=0;fornext(while(true)attempt clear() clear() clear() opening return;breakput_up*this-&amp;gt;self_referential
+opening() live-syscall()&amp;quot;) but there is more of the latter two in Bmch than I would have expected-- and,
+bucking the trend for IF that plays about with the parser this much, contains no in-joke I could find apart
+from the obligatory xyzzy, and is in no way self-referential. And, unlike most games which are
+description-light, I found myself coming back to Bmch.&lt;&#x2F;p&gt;
+&lt;p&gt;Machine is also, as far as the essential nature of puzzles is involved, fairly standard: find solution to
+puzzle, progress to next puzzle. This is made a little more difficult by the alien nature of the robot&#x27;s modus
+operandi: to a certain extent, standard IF techniques of play have to be abandoned: while this is a tough
+process, it gives Machine a powerful individual character, and helps give the player a level of empathy with
+the way 005 thinks. For example, in terms of getting information, indexing is almost invariably superior to
+examining. (You can, however, do an interesting variant of VERBOSE by setting your awareness to high: this
+increases, principally, how much you notice of the communications of other robots. Verbosity&#x2F;awareness levels
+are, perhaps, an underused narrative tool; the extent Machine uses this could, potentially, lead to
+experimental (though perhaps more conventional in other ways than Machine) work with even greater use of
+varying awareness levels.)&lt;&#x2F;p&gt;
+&lt;p&gt;Danger levels are quite high, and you are likely to &amp;quot;die&amp;quot; quite a lot, and often, frustratingly, as the result
+of previous actions. (Save). And the low verbosity could, possibly, allow you to solve or partially solve
+puzzles without realizing it (though, all things considered, this is unlikely); in most IF, when you complete
+a puzzle, you get rewarded by a bit of text informing you of your success-- there can be no slap on the back
+for the robot and, because of the low level of description, it can be uncertain whether an action is the result
+of your actions or would have happened anyway; while this adds to the unfamiliar, bizarre effect of the game,
+it certainly makes it more difficult to play; the fact that objects or machines are only identified by
+function and only rarely by form can make it difficult to visualize a situation and thus to mentally
+manipulate it. Whether this is was a concious decision or not, I don&#x27;t know: it fits the context, but does
+remove an element of pleasure from gameplay. That said, I&#x27;m not sure if Machine is meant to be pleasurable.
+All that IF needs to be good IF is to elicit a response, and Machine certainly does that, if only by the
+wierding out at the start.&lt;&#x2F;p&gt;
+&lt;p&gt;The game bravely breaks away from the standard IF verbs-you-always-need: though EXAMINE and SEARCH are still
+there, they are often next to useless: the floor is also taken from under your feet by the uncertanity of the
+data you see, particuarly with regard to movement. Initially, you&#x27;re unsure (and does it matter?) whether the
+data on possible exits is erroneous or if your legs are responding badly to commands, which adds a nice
+element of existentialist doubt to the already fairly unfamiliar (and thus unnerving) environment. I was
+almost disappointed when I worked out the significance of the internal compass: the image of a robot stumbling
+about, knowing what he perceives is faulty and trying hopelessly to correct it, works excellently.&lt;&#x2F;p&gt;
+&lt;p&gt;The atmosphere can be broken up a bit, contrarily, by the introduction of things that would be regarded as
+good practise in normal IF: anything randomized, for example, detracts somewhat from the mind-of-the-machine
+effect, as in many of the results-of-action statements. &amp;quot;Wait&amp;quot;, for example, returns different &amp;quot;Time
+passes&amp;quot;-type messages. The machine may be broken, but different code replies to identical actions in identical
+situations, and, for a machine, this feels incongruous.&lt;&#x2F;p&gt;
+&lt;p&gt;As soon as you get a purpose of any sort and start puzzlesolving, at what ever level, the atmosphere changes a
+bit, whether intentionally or not: you&#x27;re no longer a little confused robot menaced by a gigantic evil
+machine, and you start to question motive a bit: what exactly are you trying to do and why? (This makes
+puzzlesolving difficult: what are you trying to achieve, exactly?)&lt;&#x2F;p&gt;
+&lt;p&gt;According to the release notes, the game might not work on some MaxTADS, HTML-TADS or Mac interpreters. It
+worked fine on my Mac HTML-TADS, though with a few &amp;quot;undo&amp;quot; bugs, but don&#x27;t take my word for it.&lt;&#x2F;p&gt;
+&lt;p&gt;Time limits: the trickiest question in IF. The timing in Bmch can seem punitive early on, when you&#x27;re not sure
+what&#x27;s causing the drones to attack you; while this adds to the sinister efficient-machine image, it can be a
+bit frustrating until you work out how to dodge the little buggers. Once that&#x27;s done, urgency is also imposed
+by the need for energy: once you&#x27;ve refilled once, though, you&#x27;re unlikely to need it again, which is a mercy
+(it&#x27;d get irritating if you had to chase down the energizer every twenty turns or so).&lt;&#x2F;p&gt;
+&lt;p&gt;There&#x27;s some very nice, subtle humour undercurrent, such as when you attempt to take debris: &amp;quot;Debris is
+debris. If (debris.use &amp;gt; 0), debris != debris.&amp;quot; The humour is, however, both quite sparse and solely percieved
+by the audience, not 005, and thus does not really break up the sinister, inhuman atmosphere of Bmch.&lt;&#x2F;p&gt;
+&lt;p&gt;Finishing Bad Machine is tough. Wisely, the author has included sections of factory that are physically
+accessible but which are guarded; this suggests the implied vast size of the Warehouse well, but can also lead
+to red herrings. The solution is deceptively easy, at the end, and the success message is beautifully
+understated. Which cuts two ways: it accurately reflects 005&#x27;s continuing incomprehension, but is very
+anticlimatic; the power of anticlimax should not be underestimated, however.&lt;&#x2F;p&gt;
+&lt;p&gt;The most powerful image, though, is that of the sinister, faceless Machine&#x2F;Warehouse. The failure message is
+beautifully sinister. Beautifully sinister. So sinister, in fact, that it feels a great deal preferable to be
+hammered to death by a lifter. It&#x27;s nicely ironic that Mover 005 is Bad, while all the mindless automata
+around it are Good; Bad Machine is, intentionally or not, reminiscent of oppressive regimes, transforming the
+Fixer into a sinister Re-Education phychiatrist, the drones to gulag guards. 005&#x27;s complete inability to
+disobey or fight against them (unWAREHOUSE) is both a realistic rationale for not being able to actions that
+would appear physically possible, and a pointer, via other IF, to ourselves: how different is 005&#x27;s
+&amp;quot;unWAREHOUSE&amp;quot; or &amp;quot;action IS futile&#x2F;stupid&amp;quot; to Varicella&#x27;s various hangups, Lisa Flint&#x27;s refusal to kill, or
+&amp;quot;Real adventurers don&#x27;t use such language&amp;quot;-- Which, since these are all realstic reasons for human inability to
+act, points the finger on to reality, and the questions of compulsion, free will and liberty of
+spontenaity-- are we masters of our own minds, or as much a repressed, trapped product of society as 005 is of
+the Warehouse? As with life, Bad_Machine seems to have no apparent motive: the only alternative to producing
+Product (unidentified, which is a superb touch: (action IS futile&#x2F;stupid) comes to mind) is subversiveness,
+deception and destructiveness.&lt;&#x2F;p&gt;
+&lt;p&gt;Overall, Bad Machine is excellent, most so not for the code-speak, the puzzles, or the plot (such as it is)
+but for it&#x27;s message: 005&#x27;s escape is purely symbolic, (after all, it&#x27;s going to run out of power soon enough)
+but this does not detract from the power of the piece. The ending is satisfying without feelgood shmaltz, but,
+for me at least, its true strength lay in its suggestion of dark, oppressive control, and in the futile but
+necessary struggle against it.&lt;&#x2F;p&gt;
+</content>
+    </entry>
+    <entry xml:lang="en">
+        <title>Dreams, Hubris, and Getting Away with Both</title>
+        <author><name>Jonathan Rosebaugh</name></author>
+        <published>2001-01-26T00:00:00+00:00</published>
+        <updated>2001-01-26T00:00:00+00:00</updated>
+        <link href="https://mjmusante.github.io/if-review/reviews/20010126/" type="text/html"/>
+        <id>https://mjmusante.github.io/if-review/reviews/20010126/</id>
+        <content type="html">&lt;p&gt;Despite the fact that it was first released in the IF Art Show, not in a normal
+IF competition, &lt;em&gt;Galatea&lt;&#x2F;em&gt; has a plot or, rather, a couple dozen plots. Like
+its sister work, &lt;em&gt;Metamorphoses&lt;&#x2F;em&gt;, &lt;em&gt;Galatea&lt;&#x2F;em&gt; is an example of Multilinear IF, and a
+very good one at that. Both &lt;em&gt;Galatea&lt;&#x2F;em&gt; and &lt;em&gt;Metamorphoses&lt;&#x2F;em&gt; are intended, if I
+understand the author correctly, to demonstrate ideal simulationist design, but
+they are much more than demos.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Galatea&lt;&#x2F;em&gt; is the first work since &lt;em&gt;So Far&lt;&#x2F;em&gt; and &lt;em&gt;Photopia&lt;&#x2F;em&gt; to take me prisoner, to
+capture my heart. &lt;em&gt;So Far&lt;&#x2F;em&gt; did it with its marvelous worlds and sheer mystery,
+&lt;em&gt;Photopia&lt;&#x2F;em&gt; did it when the pieces finally tumbled together, and &lt;em&gt;Galatea&lt;&#x2F;em&gt; does it,
+well, with Galatea. I should explain.&lt;&#x2F;p&gt;
+&lt;p&gt;This work begins with you, an art critic, standing in a forgotten corner of an
+exhibition with Galatea. She is a statue, standing on a pedestal. She greets
+you and, from there on, the plot is different for everyone. Emily Short has
+written forty-odd endings, each of which can be reached in myriads of ways.&lt;&#x2F;p&gt;
+&lt;p&gt;Over the course of one possible conversation, it is revealed that the
+exhibition is a place where makers of artificial intelligences will show their
+skill and, one possible ending (which I found only using txd, when I was
+looking for something else) shows Galatea as one of the computerized creations.
+I never found how to get it in the game. I didn&#x27;t want to -- this type of
+ending I did not seek out. Fortunately, there are many endings that are not like
+that. I could choose. And because I could, I chose the paths that made Galatea
+a person, if not a human. I chose the paths that showed her her humanity, her
+freedom.&lt;&#x2F;p&gt;
+&lt;p&gt;Why? Because I could. Because it was the decent thing to do. Because, absurd to
+even think it, I had fallen in love with her. By that time, I had forgotten
+the existence of Emily Short, of my computer, of the game. Absurd, I say. And
+so it is. I was worse than Gatsby! Understandable, perhaps. The point of this
+work is to show the power of realistic NPCs in realistic games. That, it does.&lt;&#x2F;p&gt;
+&lt;p&gt;So why did the author write so many possible endings? Why did she open the door
+for a naïve teenager to anthropomorphize? Why did she give some responsibility
+for writing the story to the &lt;em&gt;player&lt;&#x2F;em&gt;?
+Upon reading some essays from the author&#x27;s site, an answer appears. Ironically
+enough, she did it because of me and because of everyone else that plays the game.
+The aim is to give the freedom to do anything that is reasonable (reasonable in the game
+world, I mean), to give the ability to have the game
+respond to the player&#x27;s wishes. That is, she did it because she could.&lt;&#x2F;p&gt;
+&lt;p&gt;When this happens, it means that the player has an active role in the act of
+creation. What we make may well be a judge of what we are. I am reminded of the
+concept that arose around the time quantum mechanics was first becoming
+well-known. It arose from the fact that the observer was an integral part of
+the experiment and said, basically, that &amp;quot;wishing makes it so&amp;quot;. This also led
+to some interesting interpretations of Schrödinger&#x27;s Cat, but I digress. The
+author has written one scenario which she calls Eliza, where the PC bares his
+soul for Galatea, but the game itself serves as a psychiatrist, forcing us to
+see and try to understand some of what we are.&lt;&#x2F;p&gt;
+&lt;p&gt;So, what do I make of Galatea? What stories have I decided to form? Good
+question. I don&#x27;t know. There are endings such as the ones with Dionysus that
+leave me fearful, but wanting to follow. There are endings that are happy,
+endings that are not. I have brought her into mortality, or followed her to
+immortality. I remain cautious. I -- again, the absurd, perhaps justifiable
+response -- want to help her be.&lt;&#x2F;p&gt;
+&lt;p&gt;I can&#x27;t. She&#x27;s a quarter-megabyte bit of code in my computer. The only
+existence she has is inside my mind and the minds of everyone else who plays
+the game. I can&#x27;t affect what they do with her; She&#x27;s not real &lt;em&gt;dammit!&lt;&#x2F;em&gt; I
+overreact. I anthropomorphize. A good sense of fantasy is healthy, but when you
+can&#x27;t tell the difference anymore, that&#x27;s insanity. Madness.&lt;&#x2F;p&gt;
+&lt;p&gt;That&#x27;s in the game, too. Madness, given by the gods. Hubris, sometimes
+punished, sometimes rewarded. For what is the idea of art, if not an intrusion
+on the gods&#x27; monopoly on creation?&lt;&#x2F;p&gt;
+&lt;p&gt;But let&#x27;s turn the tables about and become somewhat paranoid for a moment.
+I remember a certain ending: Galatea as daemon, or god. I remember that no one
+has actually seen Pygmalion, we have only Galatea&#x27;s word for his existence. I
+remember something Emily Short wrote, in a different context that suddenly
+seems much too similar: &amp;quot;Greek myth is full of such moments, when a god among mortals,
+disguised and mocked, suddenly turns with eyes shining. Terror follows, and
+madness.&amp;quot; This certainly can explain almost all of the possible endings, if one
+has a taste for such an idea. I don&#x27;t; it&#x27;s way too frightening. This is the
+sort of time that I reassure myself that it&#x27;s only a game, and maybe half
+succeed.&lt;&#x2F;p&gt;
+&lt;p&gt;If we continue this sort of mind exercise, we come presently to Platonism and
+again to quantum mechanics. If everything we perceive is but a shadow of some
+higher plane, and everything that is, is only in the mind, then we can affect
+reality directly, as opposed to the sort of everyday changes we make to the
+world. Here we drift dangerously into semantics and religion, but it&#x27;s worth
+taking a look at, anyhow.&lt;&#x2F;p&gt;
+&lt;p&gt;And so perhaps we have a trinity collaborating on this work: the Author, the
+Reader, and the Subject, Galatea. We affect her by what we choose to write and
+what we choose to read, but she affects us too, when we see what story we have
+written and ponder what it can mean.&lt;&#x2F;p&gt;
+&lt;p&gt;In closing, just in case you&#x27;re still with me, (as opposed to having quit
+halfway through to download Galatea) I&#x27;d like to say one thing: Play this game.
+Then, write your own. Pour your heart and soul into it. Cast it upon the
+waters, and you may indeed receive it back a hundredfold.&lt;&#x2F;p&gt;
+</content>
+    </entry>
+    <entry xml:lang="en">
+        <title>In a Most Curious Mantle</title>
+        <author><name>Dan Shiovitz</name></author>
+        <published>2001-01-19T00:00:00+00:00</published>
+        <updated>2001-01-19T00:00:00+00:00</updated>
+        <link href="https://mjmusante.github.io/if-review/reviews/20010119/" type="text/html"/>
+        <id>https://mjmusante.github.io/if-review/reviews/20010119/</id>
+        <content type="html">&lt;p&gt;It&#x27;s not saying anything new to talk about the IF community having
+mixed feelings about puzzles in games. Some people like, some people
+don&#x27;t, and so on for pages. Games fall in various points on the
+puzzleness spectrum: to one extreme you have things like
+&lt;em&gt;Photopia&lt;&#x2F;em&gt;; and to the other,
+things like &lt;em&gt;Mulldoon&lt;&#x2F;em&gt; and &lt;em&gt;Heroine&#x27;s Mantle&lt;&#x2F;em&gt;. The thing is,
+while nobody would argue that
+&lt;em&gt;Photopia&lt;&#x2F;em&gt;&#x27;s success can be
+explained entirely by its lack of puzzles (and not, you know, by
+writing quality) far too many people make the mistake of thinking that
+games like &lt;em&gt;Heroine&#x27;s Mantle&lt;&#x2F;em&gt; are successful entirely because
+they have a &lt;em&gt;lot&lt;&#x2F;em&gt; of puzzles. In fact, because these games are, or
+appear to be, purely puzzle-centric, there&#x27;s been a massive lack of
+critical attention to anything else about them. This is a
+pity, because &lt;em&gt;Heroine&#x27;s Mantle&lt;&#x2F;em&gt; is a world-class game that is
+totally worthy of standing alongside &lt;em&gt;So Far&lt;&#x2F;em&gt; or
+&lt;em&gt;Galatea&lt;&#x2F;em&gt; in the category of
+games that not only bust open new ground and reveal strange vistas,
+they&#x27;re &lt;em&gt;good&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Andy Phillips is of course no stranger to the IF world; before this
+game he had previously come out with &lt;em&gt;Time: All Things Come To An
+End&lt;&#x2F;em&gt;, &lt;em&gt;Heist&lt;&#x2F;em&gt; and &lt;em&gt;Enemies&lt;&#x2F;em&gt; (four large games is enough to
+make him noteworthy if only for sheer quantity). &lt;em&gt;Heroine&#x27;s Mantle&lt;&#x2F;em&gt;
+carries out almost every trend raised by his previous games (except,
+thankfully, the grammatical errors, which are toned down considerably)
+and molds them together into a game that, for the first time for
+Phillips, feels complete and well-structured, and carries its story
+with confidence.&lt;&#x2F;p&gt;
+&lt;p&gt;Here is what happens in the first twenty points or so of &lt;em&gt;Heroine&#x27;s
+Mantle&lt;&#x2F;em&gt;: you are saved from drowning by a superheroine, you grow
+up, you sneak into an office building, you attend a party, you find
+out the world is threatened by a master criminal, you have an
+encounter with a female assassin, you force your way to the penthouse,
+you re-encounter the assassin in the middle of one of her nefarious
+schemes, you battle some elite bodyguards, you hack a computer, you
+ransack an office. Point-wise, this has all happened in just the first
+five percent of the game. Later in the game, you battle various
+super-villains (including a space-pirate), fight untold number of
+robots and secret cultists, save the city from being poisoned, save
+the mayor from being assassinated, and this is &lt;em&gt;all in the same
+game&lt;&#x2F;em&gt;. Nobody else has done this or, really, anything close.&lt;&#x2F;p&gt;
+&lt;p&gt;To make this massive storyline go requires the player to make mental
+leap after mental leap, often blindly, hoping the game will be there
+when you land. There are machines that have to be fiddled with for no
+other reason than that they&#x27;re there, capabilities of your ship that
+have to be guessed at because they&#x27;re not fully explained anywhere,
+even actions that have to be taken for no apparent reason other than
+that, in retrospect, they look good. And people &lt;em&gt;hate&lt;&#x2F;em&gt; this.&lt;&#x2F;p&gt;
+&lt;p&gt;I obviously can&#x27;t tell people not to hate that in a game, but I can
+say that you should be understanding this as a baseline axiom, not as
+a flaw. Meyer Schapiro has this thing about the importance of a
+the frame in doing criticism of a painting: it tells you where to
+stop looking (and, thus, where to start).
+&lt;em&gt;Galatea&lt;&#x2F;em&gt; is set in a single
+room, with a single NPC, with no takeable items. This is not a failure
+of the game or a problem with the design. It&#x27;s the frame of the painting
+that tells you &amp;quot;this is what I&#x27;m interested in; this is what to focus
+on&amp;quot;. All IF has restrictions: from the parser, from the world model,
+from our inability to code NPCs that can hold &amp;quot;real&amp;quot; conversation. And
+the best games take these restrictions and deal with them, whether
+it&#x27;s &lt;em&gt;Galatea&lt;&#x2F;em&gt;
+with the tiny world that focuses you on the single NPC,
+&lt;em&gt;Spider &amp;amp; Web&lt;&#x2F;em&gt; with the restricted conversation options that
+lead to a tense and weighty dialogue, or &lt;em&gt;Heroine&#x27;s Mantle&lt;&#x2F;em&gt; with
+the forced actions and crazy puzzles that let Phillips create a huge
+and glorious storyline.&lt;&#x2F;p&gt;
+&lt;p&gt;I should perhaps say a few more words about the superhero genre
+that the game belongs to. Up till now, there was a distinct lack of
+superhero games in IF. Some good ones have been written: &lt;em&gt;Hero,
+Inc&lt;&#x2F;em&gt; and the two &lt;em&gt;Frenetic Five&lt;&#x2F;em&gt; games, for instance, but the
+most successful have all been comedies. Some part of the superhero
+concept is indeed comedic, but mostly it isn&#x27;t, and we&#x27;ve been waiting
+for a game that could capture the whole spirit of the superhero genre.
+&lt;em&gt;Heroine&#x27;s Mantle&lt;&#x2F;em&gt; succeeds. It has humorous, even silly,
+bits: wacky villains with strange motivations, ridiculous traps, and goofy
+innocent citizens who talk to and&#x2F;or hinder you. But it also captures
+the larger-than-life, super-good against super-evil,
+fate-of-the-world-depends-on-this feeling that is so necessary for
+realizing the promise of the genre.&lt;&#x2F;p&gt;
+&lt;p&gt;Most games have failed because
+they&#x27;re too timid; Phillips dares to go farther and drags the player
+along with him, willingly or not. Even the puzzles add to the feeling
+of the titanic struggle -- there I am, 2am, grappling with the game, a
+few cryptic hints, two megabytes of txd output, and &lt;em&gt;I&#x27;m still
+stuck&lt;&#x2F;em&gt;. Meanwhile, the PC is engaged in a duel to the death with
+the space pirate on the bridge of the submarine while trying to figure
+out how the hell she can also divert the torpedoes from an ocean liner
+full of innocent lives. You want &amp;quot;complicity&amp;quot;? It&#x27;s all here.&lt;&#x2F;p&gt;
+&lt;p&gt;For certain sorts of games, the best reaction you can have as a player
+is &amp;quot;I want to do something like that!&amp;quot; &lt;em&gt;Heroine&#x27;s Mantle&lt;&#x2F;em&gt; is
+doing so many new and crazy things in so many areas that there are
+dozens of possibilities that fly out in all directions. And what I&#x27;d
+most like to see is for lots and lots of players to grab a walkthrough
+or txd (or nothing at all besides the .z8, depending on how much
+patience they have), play this, and then go out and write some games
+of their own.&lt;&#x2F;p&gt;
+</content>
+    </entry>
+    <entry xml:lang="en">
+        <title>Eyeing the LASH</title>
+        <author><name>James Mitchelhill</name></author>
+        <published>2001-01-12T00:00:00+00:00</published>
+        <updated>2001-01-12T00:00:00+00:00</updated>
+        <link href="https://mjmusante.github.io/if-review/reviews/20010112/" type="text/html"/>
+        <id>https://mjmusante.github.io/if-review/reviews/20010112/</id>
+        <content type="html">&lt;p&gt;The word &#x27;robot&#x27;, as is known by many SF fans, is derived from the Czech word
+&#x27;robota&#x27;, meaning &#x27;forced labor&#x27; and was first used in the play R.U.R. by the
+playwright Capek. LASH, by Paul O&#x27;Brian concerns a robot named the MULE
+(Multiple Use Land Explorer), and its involvement in a guided salvage
+operation on the lands of a former cotton plantation in what once was Georgia.&lt;&#x2F;p&gt;
+&lt;p&gt;Upon opening LASH, we&#x27;re presented with the options to CONNECT or receive
+HELP. This is one game where the HELP is essential reading. This is because the
+HELP is not for the game itself, but for the robot that we are controlling. We
+also get essential back-story in this section, everything you would expect if
+you were in control of a remote salvage operation.&lt;&#x2F;p&gt;
+&lt;p&gt;At this point, LASH looks like a superior treasure-hunt. Not a cave crawl, but
+an after-apocalypse, burnt Earth crawl. That game might be interesting, but
+it&#x27;s not LASH. Or at least, not after the first half-hour or so. After that
+point, LASH becomes a much more complex game, the IF Literature fans get even
+more interested and those who wanted a new Adventure kick their computer in
+dismay.&lt;&#x2F;p&gt;
+&lt;p&gt;If LASH has a greatest flaw, then it is this initial misleading. This is also
+its greatest strength, despite the possibly that the initial premise will be
+enough to persuade literature-seekers that LASH is a puzzler.  Regardless, this
+is a very literate game. Half SF, half Family Saga, and half fable; which makes
+LASH a game and a half, which is accurate. There&#x27;s a lot crammed into its z8
+frame.&lt;&#x2F;p&gt;
+&lt;p&gt;LASH&#x27;s best quality, though, is the writing. O&#x27;Brian&#x27;s descriptions are
+evocative and suspenseful. Most impressive are the small details that the MULE
+reports: Unsettling sounds in the distance; the strength of the wind, the
+scratches on the wall; little hints at what has happened. The plantation the
+robot visits is a place that has been, not one that is. The only criticism I
+can make is that the background documents seem like they could have used a
+little more work -- the tone seems slightly off. However, in the game proper,
+the writing is among the best in interactive fiction.&lt;&#x2F;p&gt;
+&lt;p&gt;Fortunately, the coding lives up to the writing&#x27;s promise. Although the initial
+public release had a few bugs -- unsurprising given the scope of the game -- I
+could only find bugs by actively seeking them. Given the impressive record of
+maintenance, I&#x27;m sure that any bugs reported will be fixed when the author has
+time.&lt;&#x2F;p&gt;
+&lt;p&gt;With its lack of any difficult puzzles, and the optional nature of most (I
+played through it without a walkthrough, a rare experience for me), LASH is an
+excellent introductory work, although not for children, due to the themes and
+language the game is concerned with. The warning in the HELP section should be
+taken seriously, even though it&#x27;s fictional presentation could obscure its
+real purpose.&lt;&#x2F;p&gt;
+&lt;p&gt;Although LASH is not a game that will suit everybody, it does deserve to be
+played. It is deep, and multiple play-throughs are rewarding. LASH can be an
+extremely enjoyable and insightful experience. This is, quite simply, a
+must-play game.&lt;&#x2F;p&gt;
+&lt;p&gt;It also deserves a closer look. If you haven&#x27;t played LASH yet, do so before
+reading further: Spoilers will abound.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;spoilers&quot;&gt;SPOILERS&lt;&#x2F;h2&gt;
+&lt;p&gt;LASH is a very complex game. Structurally, it is divided into three sections,
+the framing story surrounding the dream of slavery. It also deals with three
+eras. The MULE is resident to the time after the second American civil war,
+and directly experiences the time before the first American civil war. The
+player also reads of the time before the second civil war via Dr. Lisa Percy&#x27;s
+diary. LASH also concerns itself with many themes -- slavery, war and race are
+all readily apparent. Slavery is given primary attention, and this is perhaps
+a mistake -- much criticism has been levelled at the game for its
+simplification of the issue. &amp;quot;Slavery is bad,&amp;quot; the game says, to which the
+player replies &amp;quot;I know.&amp;quot;&lt;&#x2F;p&gt;
+&lt;p&gt;Hence, in this review, I won&#x27;t focus on the slavery issue. What seems more
+important in the game, is the treatment of people; no-one in the game is what
+they seem.&lt;&#x2F;p&gt;
+&lt;p&gt;Let me justify that statement: Master Nicholas is revealed as Linda&#x27;s father
+and (consequently) his son, Matthew, as Linda&#x27;s half-brother. Momma, the wholly
+domestic slave, is revealed to have connections to the underground railroad.
+Luke, Linda&#x27;s purported father, who attempted to murder Master Nicholas, was
+doing so out of anger at the rape of Momma. Most interesting are the enforced
+character changes. Linda must escape or be killed for the MULE to leave the
+simulation. The Mule itself, is revealed to have the capability of sentience.
+Every character -- potentially even the PC -- develops during LASH.&lt;&#x2F;p&gt;
+&lt;p&gt;One consequence of this development, is that there&#x27;s a lot going on, and the
+player can easily miss all the subtlety occurring around them. Another problem
+is that a player might never get all this information. Some of it relies on
+asking the right questions of Matthew with a limited number of moves. Other
+information is only received if Nicholas attempts to rape Linda -- she can die
+before this point, or he can sell her down the river. Of course, the
+incompleteness of information leads to a high replayability value, as do the
+multiple endings available. This is a balance between story and game, and a
+consequence of the medium of IF.&lt;&#x2F;p&gt;
+&lt;p&gt;Also of interest is the race issue. As Linda is mixed-race, the MULE is part
+machine, part human. Obvious comparisons can be drawn. Until we find out that
+Nicholas is Linda&#x27;s father we assume she is wholly black and, until the MULE
+enters the simulation, we treat it as completely inhuman. The appearances of
+both Linda and the MULE remain unchanged after we learn of their true natures.
+This can be taken as commentary about how people are treated based on what we
+can see, and although that&#x27;s hardly a new idea, here we have an active and
+deep relationship with the two oppressed protagonists. This is something that
+could not have been achieved with static fiction. &lt;&#x2F;p&gt;
+&lt;p&gt;We also have Dr. Percy&#x27;s journal, which tells us that the second civil war was
+fought over racial issues. The journal itself is a clever tool to prevent the
+player from entering the simulation without first having learned this. O&#x27;Brian
+has made this information required reading before we go back to the days of
+slavery. The player must know that everything that was fought for in those
+days, by Matthew and his Harvard friends, was futile. Everyone dies anyway, a
+few generations on.&lt;&#x2F;p&gt;
+&lt;p&gt;As an aside, the journal is interesting in the way it reveals the Percys&#x27;
+race. We&#x27;re not informed that they are black until we&#x27;re half-way through
+Lisa&#x27;s diary. I suspect that, up until this point, a lot of players (myself
+included) had assumed that they were white. That doesn&#x27;t make us racists
+(although assuming that a criminal was black would), but it does give rise to
+the question on a personal level -- if we make those assumptions, what other
+assumptions do we make that we haven&#x27;t yet realized?&lt;&#x2F;p&gt;
+&lt;p&gt;Another facet of the game is how it explores the relationship between player
+and protagonist. The MULE interface is used to justify the limited ways in
+which an IF player can control the protagonist of a story. Various IF
+conventions are incorporated into the game itself via careful design of the
+MULE technology. Moreover, the story itself mimics classic IF -- the
+treasure-hunt is the original text adventure plot. Even the nameless
+adventurer is recreated here: You are the hero.&lt;&#x2F;p&gt;
+&lt;p&gt;It&#x27;s this link to the past that highlights how far IF has come since those
+not-so-distant origins. LASH is evolved IF on equal footing with print
+literature, able to stand amongst the written works of the world and not be
+found wanting. As I said earlier, LASH is a must-play game. In the future, if
+IF is studied in colleges then LASH is the kind of historically significant
+work that I hope will be on thier required playing lists. Paul O&#x27;Brian has
+taken IF a step forward towards those days.&lt;&#x2F;p&gt;
+</content>
+    </entry>
+    <entry xml:lang="en">
+        <title>Don&#x27;t Go Violent On This Review</title>
+        <author><name>Jonathan Blask</name></author>
+        <published>2001-01-05T00:00:00+00:00</published>
+        <updated>2001-01-05T00:00:00+00:00</updated>
+        <link href="https://mjmusante.github.io/if-review/reviews/20010105/" type="text/html"/>
+        <id>https://mjmusante.github.io/if-review/reviews/20010105/</id>
+        <content type="html">&lt;p&gt;There are a lot of text games already being forgotten, despite the fact that
+they&#x27;re available from our lovable IF archive and all of its incorrigibly wacky
+mirrors.  I mean, who plays gems like Cosmoserve these days?  Not many, I&#x27;d
+think, and for every Cosmoserve, there&#x27;s a dozen games that never made any sort
+of impact on the IF community in any way.  These games are snapshots in time.
+We play them, and we marvel at how far IF has come or note what the games did
+right or how they failed.  Sometimes, with games like Jason Clayton White&#x27;s
+House of the Stalker, we can&#x27;t help but wonder, what was the author smoking?&lt;&#x2F;p&gt;
+&lt;p&gt;It&#x27;s rare that I include game text in a review (okay, I&#x27;ve just never done it
+before), but with this game, I feel that I must:&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;code&gt;Attic&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;code&gt;You are in your attic, scared out of your wits. The killer may be down there waiting for you, or he may not know you&#x27;re there at all. Then there&#x27;s always the chance that it was your cat rustling on the kitchen table or something, in which case you would laugh and slap up the kitty a bit. There is something about this situation, though, that sets your heart racing.&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Of course, death looms around every corner, but it&#x27;s not always at the hands
+of a homicidal maniac with the fear-inspiring name of &amp;quot;Keith Alfonzo.&amp;quot;
+Sometimes it&#x27;s in the form of a bowling ball to the head when one foolishly
+opens up a closet door, releasing piles of junk.&lt;&#x2F;p&gt;
+&lt;p&gt;We learn that the PC lives in an empty house (well, except for the cat) with
+an empty heart, still saddened by the departure of his spouse and kids.
+Fortunately, he has a mini-disc player that plays &amp;quot;Ride of the Valkyries&amp;quot;
+deafeningly loud to help him forget his troubles.&lt;&#x2F;p&gt;
+&lt;p&gt;When playing horror games, I always expect the killer to jump out in two
+turns, at which point it&#x27;s all carefully timed &#x27;guess the verb&#x27; head-banging
+frustration.  &#x27;House of the Stalker&#x27; only partly succumbs to this.  The killer
+doesn&#x27;t appear until you go out of your way to find him, almost to the point
+where you want to grab the PC and say, &amp;quot;dude, what are you freaking out
+about?&amp;quot;  When you do eventually confront the killer, yeah, it becomes a
+death fest.  I&#x27;m pretty sure (ok, I admit that I&#x27;m writing this review a year
+or so after I last played the game) that I resorted to a walkthrough or text
+dump.  Of course, the response to &lt;code&gt;&amp;gt;KICK MAN (&amp;quot;Don&#x27;t go violent on the the killer!&amp;quot;)&lt;&#x2F;code&gt; is quite entertaining, but even more interesting is the way that
+your character disarms and completely pacifies our friend Keith before killing
+him.&lt;&#x2F;p&gt;
+&lt;p&gt;I presume the remaining question is, is the game worth playing?  On one hand,
+the execution leaves something to be desired.  The writing is sloppy (although
+the style cracked me up) and the code, buggy.  I actually refrained from
+including other bits of text because I didn&#x27;t want to spoil all of its &#x27;jokes&#x27;,
+which aren&#x27;t as numerous as I recalled.  Still, as clichéd as games like these
+are, they carry that spark of inspiration that most &#x27;this is my apartment&#x27; and
+&#x27;treasure quest&#x27; games lack, and sometimes that&#x27;s enough to win a place in your
+heart.&lt;&#x2F;p&gt;
+</content>
+    </entry>
+</feed>
